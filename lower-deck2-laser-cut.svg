@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="758"
-     inkscape:cy="752"
+     inkscape:cy="688"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -219,14 +219,14 @@
        rx="5.0007405"
        ry="2.3063653" />
     <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.0172522;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.0289296;stroke-dasharray:none;stroke-opacity:1"
        id="rect3595-8"
-       width="100"
-       height="40"
-       x="264.59595"
-       y="141.90652"
-       rx="5.0007405"
-       ry="2.3063653" />
+       width="124.98807"
+       height="89.988068"
+       x="239.60147"
+       y="91.912468"
+       rx="6.250329"
+       ry="5.1886344" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.0172521;stroke-dasharray:none;stroke-opacity:1"
        id="rect3595-6"
@@ -250,8 +250,8 @@
        id="rect5113-8"
        width="50.002998"
        height="15.002999"
-       x="150.011"
-       y="110.011"
+       x="130.011"
+       y="120.011"
        rx="5.0005665"
        ry="3.7507498" />
     <circle
@@ -280,38 +280,8 @@
        r="1.5" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       id="path6146-3-3-1-6"
-       cx="359.5127"
-       cy="256.5127"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       id="path6146-3-3-1-6-3"
-       cx="257.5127"
-       cy="256.5127"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       id="path6146-3-3-1-6-2"
-       cx="182.5127"
-       cy="256.5127"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-3-3-1-6-0"
        cx="359.5127"
-       cy="168.5127"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       id="path6146-3-3-1-6-3-6"
-       cx="257.5127"
-       cy="168.5127"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       id="path6146-3-3-1-6-2-1"
-       cx="155.5127"
        cy="168.5127"
        r="1.5" />
     <circle
