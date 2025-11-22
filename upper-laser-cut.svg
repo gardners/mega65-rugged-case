@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="0.85178248"
      inkscape:cx="956.81705"
-     inkscape:cy="679.75101"
+     inkscape:cy="577.61226"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -58,8 +58,8 @@
        rx="5"
        ry="5" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.0251386;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 40.012569,65.012569 H 279.01243 v 20.000262 h -9.79508 v 3e-4 H 49.807646 v -3e-4 h -9.795077 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.0250333;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 42.012516,65.012517 H 279.01248 v 20.000367 h -9.71311 v 3e-4 H 51.72563 v -3e-4 h -9.713114 z"
        id="path4364-3-6-7"
        sodipodi:nodetypes="ccccccccc" />
     <path
@@ -68,8 +68,8 @@
        id="path4364-3-6-7-2"
        sodipodi:nodetypes="ccccccccc" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.0251386;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 40.012569,85.012569 H 279.01243 v 20.000261 h -9.79508 v 3e-4 H 49.807646 v -3e-4 h -9.795077 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.0250333;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 42.012517,85.012517 H 279.01249 v 20.000373 h -9.71312 v 3e-4 H 51.72563 v -3e-4 h -9.713113 z"
        id="path4364-3-6-7-5"
        sodipodi:nodetypes="ccccccccc" />
     <rect
@@ -113,13 +113,13 @@
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-61"
-       cx="102.0127"
+       cx="72.012703"
        cy="75.012703"
        r="1.5" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-8"
-       cx="202.0127"
+       cx="172.0127"
        cy="75.012703"
        r="1.5" />
     <circle
@@ -143,13 +143,13 @@
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-7"
-       cx="102.0127"
+       cx="72.012703"
        cy="95.012703"
        r="1.5" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-92"
-       cx="202.0127"
+       cx="172.0127"
        cy="95.012703"
        r="1.5" />
     <circle

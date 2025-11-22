@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="758"
-     inkscape:cy="454"
+     inkscape:zoom="4.6826838"
+     inkscape:cx="1241.2754"
+     inkscape:cy="615.45903"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -199,14 +199,14 @@
       </g>
     </g>
     <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.0289296;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.0265148;stroke-dasharray:none;stroke-opacity:1"
        id="rect3595-8"
-       width="124.98807"
-       height="89.988068"
-       x="239.60147"
-       y="91.912468"
-       rx="6.250329"
-       ry="5.1886344" />
+       width="104.99049"
+       height="89.990486"
+       x="239.60027"
+       y="91.911263"
+       rx="5.2503018"
+       ry="5.1887736" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
        id="rect5113-8"
@@ -216,6 +216,33 @@
        y="120.011"
        rx="5.0005665"
        ry="3.7507498" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5113-8-2"
+       width="30"
+       height="45.002998"
+       x="335.01099"
+       y="136.911"
+       rx="5.0005665"
+       ry="3.7507498" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5113-8-4"
+       width="15"
+       height="60"
+       x="79.508919"
+       y="15.252663"
+       rx="5.0005665"
+       ry="3.7507498" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.0127019;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5113-8-4-5"
+       width="15.009298"
+       height="19.987299"
+       x="79.504356"
+       y="100.00636"
+       rx="5.0036664"
+       ry="5" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-3-3"
@@ -225,7 +252,7 @@
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-3-3-6"
-       cx="136.5127"
+       cx="157.5127"
        cy="108.0127"
        r="1.5" />
     <circle
@@ -239,12 +266,6 @@
        id="path6146-3-3-6-0"
        cx="227.5127"
        cy="108.0127"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       id="path6146-3-3-1-6-0"
-       cx="359.5127"
-       cy="168.5127"
        r="1.5" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
