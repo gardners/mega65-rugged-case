@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="lower-deck2-laser-cut.svg"
+   sodipodi:docname="lower-deck3-laser-cut.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="758"
-     inkscape:cy="752"
+     inkscape:cx="765"
+     inkscape:cy="787"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -210,33 +210,6 @@
       </g>
     </g>
     <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.0172522;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3595"
-       width="55.008148"
-       height="29.982748"
-       x="5.008626"
-       y="30.008625"
-       rx="5.0007405"
-       ry="2.3063653" />
-    <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.0172522;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3595-8"
-       width="100"
-       height="40"
-       x="264.59595"
-       y="141.90652"
-       rx="5.0007405"
-       ry="2.3063653" />
-    <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.0172521;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3595-6"
-       width="55.007748"
-       height="29.982748"
-       x="5.008626"
-       y="220.00862"
-       rx="5.0007043"
-       ry="2.3063653" />
-    <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
        id="rect5113"
        width="30.003399"
@@ -247,13 +220,14 @@
        ry="3.7507498" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5113-8"
-       width="50.002998"
+       id="rect5113-3"
+       width="30.003399"
        height="15.002999"
-       x="150.011"
-       y="110.011"
+       x="-68.68087"
+       y="-159.88916"
        rx="5.0005665"
-       ry="3.7507498" />
+       ry="3.7507498"
+       transform="scale(-1)" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-3-3"
@@ -326,5 +300,65 @@
        cx="295.5127"
        cy="266.5127"
        r="1.5" />
+    <g
+       id="g11906"
+       transform="rotate(90,71.908537,183.49189)">
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-6-2-1-7"
+         cx="-231.5127"
+         cy="101.5127"
+         r="1.5"
+         transform="rotate(-90)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-6-2-1-7-4"
+         cx="-172.5127"
+         cy="101.5127"
+         r="1.5"
+         transform="rotate(-90)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-6-2-1-7-5"
+         cx="-231.51271"
+         cy="71.512703"
+         r="1.5"
+         transform="rotate(-90)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-6-2-1-7-4-9"
+         cx="-172.5127"
+         cy="71.512703"
+         r="1.5"
+         transform="rotate(-90)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-6-2-1-7-5-7"
+         cx="-231.51271"
+         cy="131.5127"
+         r="1.5"
+         transform="rotate(-90)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-6-2-1-7-4-9-5"
+         cx="-172.5127"
+         cy="131.5127"
+         r="1.5"
+         transform="rotate(-90)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-6-2-1-7-4-1"
+         cx="-201.5127"
+         cy="61.512699"
+         r="1.5"
+         transform="rotate(-90)" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-6-2-1-7-4-1-8"
+         cx="-201.5127"
+         cy="140.5127"
+         r="1.5"
+         transform="rotate(-90)" />
+    </g>
   </g>
 </svg>
