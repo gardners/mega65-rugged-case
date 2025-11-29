@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.034706"
-     inkscape:cx="769.30064"
-     inkscape:cy="682.31941"
+     inkscape:cx="840.81854"
+     inkscape:cy="364.3547"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -52,12 +52,6 @@
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146"
        cx="105.5127"
-       cy="15.0127"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       id="path6146-3"
-       cx="295.5127"
        cy="15.0127"
        r="1.5" />
     <circle
@@ -298,5 +292,14 @@
        cx="79.012703"
        cy="78.012703"
        r="3" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5113-8"
+       width="50.002998"
+       height="15.002999"
+       x="190.011"
+       y="270.01099"
+       rx="5.0005665"
+       ry="3.7507498" />
   </g>
 </svg>

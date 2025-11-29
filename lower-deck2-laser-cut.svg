@@ -64,13 +64,13 @@
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-9"
        cx="51.512699"
-       cy="14.0127"
+       cy="15.0127"
        r="1.5" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-3-0"
        cx="321.5127"
-       cy="14.0127"
+       cy="15.0127"
        r="1.5" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -276,5 +276,14 @@
        cx="382.5127"
        cy="230.5127"
        r="1.5" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5113-8-0"
+       width="50.002998"
+       height="15.002999"
+       x="190.011"
+       y="270.01099"
+       rx="5.0005665"
+       ry="3.7507498" />
   </g>
 </svg>
