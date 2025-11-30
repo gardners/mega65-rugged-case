@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.034706"
-     inkscape:cx="840.81854"
-     inkscape:cy="364.3547"
+     inkscape:cx="841.78501"
+     inkscape:cy="364.35471"
      inkscape:window-width="1854"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1131"
+     inkscape:window-x="1986"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -46,7 +46,7 @@
     <path
        id="rect111"
        style="fill:none;stroke:#ff0000;stroke-width:0.0312521;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 40.281262,10.015409 c -12.917744,0 -23.894069,8.277358 -28.253572,19.997229 H 56.013 c 2.769988,0 5,2.230224 5,5.000212 v 54.999744 c 0,2.769988 -2.230012,5.000211 -5,5.000211 H 10.015409 V 185.01248 H 56.013 c 2.769994,0 5,2.23021 5,5.00021 v 55.00026 c 0,2.77 -0.013,4.9997 -0.013,4.9997 v 0 c 0,0 -0.360404,24.9716 5.281,24.9716 h 291.43773 c 16.76701,0 30.26586,-13.94286 30.26586,-31.26218 V 110.01292 H 263.01289 V 10.015409 H 95.014355 v 6.247681 c 0,2.077909 -2.230423,3.750675 -5.000728,3.750675 h -20.00188 c -2.770305,0 -5.000728,-1.672766 -5.000728,-3.750675 v -6.247681 z"
+       d="m 40.281262,10.015409 c -12.917744,0 -23.894069,8.277358 -28.253572,19.997229 H 56.013 c 2.769988,0 5,2.230224 5,5.000212 v 60.000045 c 0,2.769987 -2.230012,5.000215 -5,5.000215 H 10.015409 V 180.0129 H 56.013 c 2.769994,0 5,2.23021 5,5.00021 v 59.99984 c 0,2.77 -0.013,4.9997 -0.013,4.9997 v 0 c 0,0 -0.360404,24.9716 5.281,24.9716 h 291.43773 c 16.76701,0 30.26586,-13.94286 30.26586,-31.26218 V 110.01292 H 263.01289 V 10.015409 H 95.014355 v 11.247254 c 0,2.077909 -2.230423,3.750675 -5.000728,3.750675 h -20.00188 c -2.770305,0 -5.000728,-1.672766 -5.000728,-3.750675 V 10.015409 Z"
        sodipodi:nodetypes="scssssccsssccsssccccsssscs" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
