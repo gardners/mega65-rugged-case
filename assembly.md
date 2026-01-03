@@ -16,4 +16,18 @@
    Use nylon NUT+WASHERs to fix the board in place.
 8. Use M3x15 screws and HEX6.3s to screw the speakers into the panel, and then connect to J19 and/or J22 as desired.
 9. Fit the TE0790 JTAG adapter now (if you did it before, it would have blocked access to a screw).
-10. Fit the retaining M3x25 for the expansion breakout board from the rear, then put a HEX6.3 + NUT+WASHER to hold that in place and vertically space the support for the expansion board. 
+10. Fit the retaining M3x25 for the expansion breakout board from the rear, then put a HEX6.3 + NUT+WASHER to hold that in place and vertically space the support for the expansion board.
+11. Fit the expansion port breakout board and secure with nylon NUT+WASHER.
+12. Prepare high-current battery leads.  I use one or two 3.2V 10Ah monolithic LiFePO4 cells.
+    The cells I bought use 5mm diameter screw terminals, so I am using nylon lock-nuts to hold ring connectors firmly in place.
+    A low-resistance connection is important, because with a 1S configuration and nearly-flat batteries currents of ~10A are possible.
+    It's a good idea to put an in-line fuse in there.
+    You need two sets of leads from the batteries: One is the high-current one used to generate the 12V (probably 9V in reality if you
+    use the same DC:DC eval board that I'm using).
+    The other is for the 5V for the cellular modem.  That one can't draw quite as much, but peak currents of 5A - 8A from a nearly flat
+    battery are still quite possible, even if the average current draw will be quite a bit lower.
+    The DC:DC eval board is a bit annoying on several fronts. One, it has not mounting holes to screw it into place, so it has to get kind of wedged
+    between spacers. Another is that it defaults to 9V, and they didn't bother making it easy to tune the output voltage.
+    And the third is it just has big peg connectors, so you have to solder the leads onto it.
+    The battery leads need to be about 30cm long.
+    
