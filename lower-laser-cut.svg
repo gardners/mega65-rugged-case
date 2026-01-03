@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.73164763"
-     inkscape:cx="863.12041"
-     inkscape:cy="702.52397"
+     inkscape:zoom="0.78929574"
+     inkscape:cx="414.92686"
+     inkscape:cy="800.71382"
      inkscape:window-width="1854"
      inkscape:window-height="1131"
      inkscape:window-x="1986"
@@ -38,7 +38,128 @@
        id="grid19131" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-27"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-0"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-6"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-2"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-8"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -307,5 +428,135 @@
        y="270.01099"
        rx="5.0005665"
        ry="3.7507498" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="114.81748"
+       y="139.04338"
+       id="text590"><tspan
+         sodipodi:role="line"
+         id="tspan588"
+         style="stroke-width:0.0254;stroke:#0000ff;stroke-opacity:1"
+         x="114.81748"
+         y="139.04338">25mm M3 screw, 5mm nylon space</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0254;stroke:#0000ff;stroke-opacity:1"
+         x="114.81748"
+         y="143.01213"
+         id="tspan592">behind</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0254;stroke:#0000ff;stroke-opacity:1"
+         x="114.81748"
+         y="146.98088"
+         id="tspan594">(all keyboards)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="218.5097"
+       y="140.64536"
+       id="text648"><tspan
+         sodipodi:role="line"
+         id="tspan646"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="218.5097"
+         y="140.64536">25mm M3 screw, 5mm nylon spacer</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="218.5097"
+         y="144.61411"
+         id="tspan650">behind (DIY keyboard only)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="303.31949"
+       y="142.5013"
+       id="text654"><tspan
+         sodipodi:role="line"
+         id="tspan652"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="303.31949"
+         y="142.5013">25mm M3 screw, 5mm nylon spacer behind</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="303.31949"
+         y="146.47005"
+         id="tspan656">(retail keyboard only)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="315.54623"
+       y="166.70139"
+       id="text660"><tspan
+         sodipodi:role="line"
+         id="tspan658"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="315.54623"
+         y="166.70139">25mm M3 screw, 5mm nylon spacer</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="315.54623"
+         y="170.67014"
+         id="tspan662">behind (DIY keyboard)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="317.70547"
+       y="203.65399"
+       id="text660-6"><tspan
+         sodipodi:role="line"
+         id="tspan658-7"
+         style="stroke-width:0.0254;stroke:#0000ff;stroke-opacity:1"
+         x="317.70547"
+         y="203.65399">25mm M3 screw, 5mm nylon spacer</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0254;stroke:#0000ff;stroke-opacity:1"
+         x="317.70547"
+         y="207.62274"
+         id="tspan662-5">behind (DIY keyboard)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="77.140205"
+       y="219.88898"
+       id="text660-3"><tspan
+         sodipodi:role="line"
+         id="tspan658-5"
+         style="stroke-width:0.0254;stroke:#0000ff;stroke-opacity:1"
+         x="77.140205"
+         y="219.88898">25mm M3 screw, 5mm nylon spacer</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.0254;stroke:#0000ff;stroke-opacity:1"
+         x="77.140205"
+         y="223.85773"
+         id="tspan662-6">behind (all keyboards)</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow3)"
+       d="m 94.726171,225.77446 -2.776566,6.75078"
+       id="path857" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2)"
+       d="m 121.94017,136.21777 -7.16315,-5.06505"
+       id="path857-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-27)"
+       d="m 232.13621,137.11015 -3.13643,-6.74651"
+       id="path857-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-3)"
+       d="m 348.24778,139.71703 1.44799,-8.93203"
+       id="path857-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-6)"
+       d="m 369.0172,163.70427 8.47473,-5.5788"
+       id="path857-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-1)"
+       d="m 361.25219,205.78591 8.70025,7.88324"
+       id="path857-7"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
