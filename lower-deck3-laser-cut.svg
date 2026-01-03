@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="521.5"
-     inkscape:cy="529"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="978.63579"
+     inkscape:cy="128.69343"
      inkscape:window-width="1854"
      inkscape:window-height="1131"
      inkscape:window-x="1986"
@@ -38,7 +38,368 @@
        id="grid19131" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-7"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-65"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-6"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-8"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-9"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-85"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-6-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-7-6"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-6-5-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-7-6-1"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-6-5-8-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-7-6-1-0"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-6-5-8-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-7-6-1-4"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-6-5-8-4-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-7-6-1-4-3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-65-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-6-8"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-65-3-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-6-8-4"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-65-3-0-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-6-8-4-7"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-65-3-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-6-8-43"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-65-3-0-92"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-6-8-4-5"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-65-3-0-9-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-6-8-4-7-0"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3-2-65-3-6-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3-9-6-8-43-2"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -423,5 +784,454 @@
        cx="199.2627"
        cy="43.791866"
        r="1" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="205.09286"
+       y="210.51331"
+       id="text590"><tspan
+         sodipodi:role="line"
+         id="tspan588"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="205.09286"
+         y="210.51331">M3x15 from rear through panel into HEX6.3 </tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="205.09286"
+         y="214.48206"
+         id="tspan594">behind and then through MEGA65 main board</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="205.09286"
+         y="218.45081"
+         id="tspan33585">on this side.</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2)"
+       d="M 202.22616,206.9105 138.03338,165.28791"
+       id="path857-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-6)"
+       d="m 234.8107,205.59181 2.46779,-38.68132"
+       id="path857-1-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65)"
+       d="m 204.69816,219.73679 -38.83764,29.17912"
+       id="path857-1-39"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-4)"
+       d="m 233.30598,216.90723 3.7939,31.25454"
+       id="path857-1-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-2)"
+       d="m 269.64368,216.90305 65.49624,33.18357"
+       id="path857-1-390"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-8)"
+       d="m 271.56639,206.1987 64.82193,-41.10117"
+       id="path857-1-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="168.72159"
+       y="115.65984"
+       id="text590-9"><tspan
+         sodipodi:role="line"
+         id="tspan588-6"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="168.72159"
+         y="115.65984">M3x15 from rear through panel</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="168.72159"
+         y="119.62859"
+         id="tspan33585-8">into HEX6.3 and nylon </tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="168.72159"
+         y="123.59734"
+         id="tspan33729">NUT+WASHER to support</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="168.72159"
+         y="127.56609"
+         id="tspan33731">expansion port break-out board</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-6-5)"
+       d="m 202.33945,111.90187 9.11057,-14.581719"
+       id="path857-1-3-1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="71.998322"
+       y="108.81007"
+       id="text590-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan588-6-5"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.998322"
+         y="108.81007">M3x15 from rear through panel</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.998322"
+         y="112.77882"
+         id="tspan33731-4">into HEX15 to form MEGA65</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.998322"
+         y="116.74757"
+         id="tspan33925">power cable strain-relief maze</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-6-5-8)"
+       d="m 100.89105,105.48352 6.62306,-1.10999"
+       id="path857-1-3-1-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-6-5-8-3)"
+       d="m 80.892242,105.27264 6.62306,-1.10999"
+       id="path857-1-3-1-0-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-6-5-8-4)"
+       d="m 80.679238,118.05539 5.879146,2.95093"
+       id="path857-1-3-1-0-47"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-6-5-8-4-6)"
+       d="m 101.53631,117.27442 5.87914,2.95093"
+       id="path857-1-3-1-0-47-1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="71.416924"
+       y="50.330093"
+       id="text590-9-1-7"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.416924"
+         y="50.330093"
+         id="tspan33731-4-9">M3x15 from rear through</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.416924"
+         y="54.298843"
+         id="tspan33925-6">speaker into HEX6.3.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.416924"
+         y="58.267593"
+         id="tspan34227">Speaker faces up.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.416924"
+         y="62.236343"
+         id="tspan34229"> Speaker wire goes</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.416924"
+         y="66.205093"
+         id="tspan34231">  behind and routes</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.416924"
+         y="70.173843"
+         id="tspan34233">       through any hole</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="71.416924"
+         y="74.142593"
+         id="tspan34235">              to M65 J19</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="286.78265"
+       y="49.446861"
+       id="text590-9-1-7-2"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="286.78265"
+         y="49.446861"
+         id="tspan33731-4-9-1">M3x15 from rear through</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="286.78265"
+         y="53.415611"
+         id="tspan33925-6-7">speaker into HEX6.3.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="286.78265"
+         y="57.384361"
+         id="tspan34227-8">Speaker faces up.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="286.78265"
+         y="61.353111"
+         id="tspan34229-5"> Speaker wire goes</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="286.78265"
+         y="65.321861"
+         id="tspan34231-7">  behind and routes</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="286.78265"
+         y="69.290611"
+         id="tspan34233-4">       through any hole</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="286.78265"
+         y="73.259361"
+         id="tspan34235-1">              to M65 J22</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="171.40215"
+       y="48.920624"
+       id="text590-9-1-8"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="48.920624"
+         id="tspan33925-5">Power Management FPGA</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="52.889374"
+         id="tspan34356">board goes here, USB</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="56.858124"
+         id="tspan34358">port towards the right.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="60.826874"
+         id="tspan34362">Don't forget to do the</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="64.795624"
+         id="tspan34366">modification to allow it to</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="68.764374"
+         id="tspan34368">be powered from external</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="72.733124"
+         id="tspan34370">5V! You need 2mm screws</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="76.701874"
+         id="tspan34372">for this, or some other way</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="80.670624"
+         id="tspan34374">to fix it in place, e.g., twisted</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="171.40215"
+         y="84.639374"
+         id="tspan34376">wire loops.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="27.755926"
+       y="184.23613"
+       id="text590-9-1-3"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="184.23613"
+         id="tspan33925-3">Battery to 12V DC:DC Eval</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="188.20488"
+         id="tspan34570">Board goes here.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="192.17363"
+         id="tspan34572" /><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="196.14238"
+         id="tspan34576">M3x15 from rear through panel</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="200.11113"
+         id="tspan34580">and HEX6.3s.  Eval board goes</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="204.07988"
+         id="tspan34582">on the HEX6.3s and is then fixed</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="208.04863"
+         id="tspan34584">in place with NUT+WASHERS.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="212.01738"
+         id="tspan34586" /><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="215.98613"
+         id="tspan34588">Note the DC:DC board doesn't have</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="219.95488"
+         id="tspan34590">mounting holes, which is annoying.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="223.92363"
+         id="tspan34592" /><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="227.89238"
+         id="tspan34594">MAKE SURE IT'S CONFIGURED FOR</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="231.86113"
+         id="tspan34596">9 -- 12V OUT,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="27.755926"
+         y="235.82988"
+         id="tspan34598">neither lower nor higher</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke:#0000ff;stroke-width:0.0309999"
+       x="50.864323"
+       y="168.18349"
+       id="text34602"><tspan
+         sodipodi:role="line"
+         id="tspan34600"
+         style="font-size:3.52778px;stroke-width:0.031"
+         x="50.864323"
+         y="168.18349">VIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke:#0000ff;stroke-width:0.0309999"
+       x="49.338604"
+       y="258.88397"
+       id="text34602-1"><tspan
+         sodipodi:role="line"
+         id="tspan34600-8"
+         style="font-size:3.52778px;stroke-width:0.031"
+         x="49.338604"
+         y="258.88397">VOUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="64.059685"
+       y="260.91022"
+       id="text590-96"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="64.059685"
+         y="260.91022"
+         id="tspan33585-3">M3x15 from rear, then HEX25 this side, i.e, poking up</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65-3)"
+       d="m 62.454879,260.68127 -7.970019,4.13194"
+       id="path857-1-39-6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="145.05826"
+       y="266.09473"
+       id="text590-96-8"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="145.05826"
+         y="266.09473"
+         id="tspan33585-3-8">M3x15 from this side, then HEX25 on rear, i.e, poking down</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65-3-0)"
+       d="m 143.45345,265.86577 -33.07242,0.90867"
+       id="path857-1-39-6-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65-3-0-9)"
+       d="m 233.68931,263.62028 47.6236,3.17779"
+       id="path857-1-39-6-8-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="48.589241"
+       y="32.668873"
+       id="text590-96-0"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="48.589241"
+         y="32.668873"
+         id="tspan33585-3-3">M3x15 from rear, then HEX25 this side, i.e, poking up</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65-3-6)"
+       d="m 50.384825,28.491881 -0.232057,-9.87947"
+       id="path857-1-39-6-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="148.87218"
+       y="17.467445"
+       id="text590-96-8-5"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="148.87218"
+         y="17.467445"
+         id="tspan33585-3-8-9">M3x15 from this side, then HEX25 on rear, i.e, poking down</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65-3-0-92)"
+       d="M 146.81678,16.534764 113.74436,15.307838"
+       id="path857-1-39-6-8-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65-3-0-9-4)"
+       d="m 238.53925,16.430785 46.13699,-1.099317"
+       id="path857-1-39-6-8-7-6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+       x="286.55383"
+       y="28.930695"
+       id="text590-96-0-2"><tspan
+         sodipodi:role="line"
+         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
+         x="286.55383"
+         y="28.930695"
+         id="tspan33585-3-3-4">M3x15 from rear, then HEX25 this side, i.e, poking up</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65-3-6-9)"
+       d="m 308.70965,25.195263 10.43918,-7.740774"
+       id="path857-1-39-6-0-7"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
