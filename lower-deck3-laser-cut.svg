@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="357.79603"
-     inkscape:cy="632.86057"
+     inkscape:cx="240.76986"
+     inkscape:cy="984.64619"
      inkscape:window-width="1854"
      inkscape:window-height="1131"
      inkscape:window-x="1986"
@@ -572,6 +572,16 @@
        transform="scale(-1)" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5113-3-80"
+       width="32.758007"
+       height="25.573563"
+       x="-42.159576"
+       y="-277.40048"
+       rx="0"
+       ry="0"
+       transform="scale(-1)" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
        id="rect5113-3-8"
        width="44.530182"
        height="70.340706"
@@ -728,23 +738,44 @@
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0127019"
        id="path26951-1"
-       cx="305.25635"
+       cx="257.63144"
        cy="56.006351"
        r="21" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-3-3-1-6-3-6-0-5"
-       cx="238.66615"
-       cy="-159.4528"
+       cx="204.99017"
+       cy="-125.77682"
        r="1.5"
        transform="rotate(45)" />
     <circle
        style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-3-3-1-6-3-6-0-9-5"
-       cx="272.11224"
-       cy="-192.89883"
+       cx="238.43633"
+       cy="-159.22285"
        r="1.5"
        transform="rotate(45)" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0127019"
+       id="path26951-1-5"
+       cx="63.006355"
+       cy="-341.01263"
+       r="12"
+       transform="rotate(90)" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-3-3-1-6-3-6-0-5-4"
+       cx="-210.36452"
+       cy="-271.89178"
+       transform="rotate(135)"
+       r="3" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-3-3-1-6-3-6-0-9-5-8"
+       cx="-182.78737"
+       cy="-299.46896"
+       transform="rotate(135)"
+       r="3" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.0220005;stroke-dasharray:none;stroke-opacity:1"
        id="rect5113-8"
@@ -951,42 +982,42 @@
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-       x="286.78265"
+       x="239.15768"
        y="49.446861"
        id="text590-9-1-7-2"><tspan
          sodipodi:role="line"
          style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-         x="286.78265"
+         x="239.15768"
          y="49.446861"
          id="tspan33731-4-9-1">M3x15 from rear through</tspan><tspan
          sodipodi:role="line"
          style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-         x="286.78265"
+         x="239.15768"
          y="53.415611"
          id="tspan33925-6-7">speaker into HEX6.3.</tspan><tspan
          sodipodi:role="line"
          style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-         x="286.78265"
+         x="239.15768"
          y="57.384361"
          id="tspan34227-8">Speaker faces up.</tspan><tspan
          sodipodi:role="line"
          style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-         x="286.78265"
+         x="239.15768"
          y="61.353111"
          id="tspan34229-5"> Speaker wire goes</tspan><tspan
          sodipodi:role="line"
          style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-         x="286.78265"
+         x="239.15768"
          y="65.321861"
          id="tspan34231-7">  behind and routes</tspan><tspan
          sodipodi:role="line"
          style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-         x="286.78265"
+         x="239.15768"
          y="69.290611"
          id="tspan34233-4">       through any hole</tspan><tspan
          sodipodi:role="line"
          style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-         x="286.78265"
+         x="239.15768"
          y="73.259361"
          id="tspan34235-1">              to M65 J22</tspan></text>
     <text
@@ -1220,13 +1251,13 @@
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-       x="286.55383"
-       y="28.930695"
+       x="246.30212"
+       y="28.617613"
        id="text590-96-0-2"><tspan
          sodipodi:role="line"
          style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1"
-         x="286.55383"
-         y="28.930695"
+         x="246.30212"
+         y="28.617613"
          id="tspan33585-3-3-4">M3x15 from rear, then HEX25 this side, i.e, poking up</tspan></text>
     <path
        style="fill:#0000ff;stroke:#0000ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2-65-3-6-9)"
