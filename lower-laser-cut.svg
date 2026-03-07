@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.9943094"
-     inkscape:cx="644.16569"
-     inkscape:cy="467.66127"
+     inkscape:cx="670.31449"
+     inkscape:cy="870.95626"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -480,43 +480,43 @@
        ry="3.7507498" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-size:3.175px;fill:#0000ff;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        x="114.81748"
        y="139.04338"
        id="text590"><tspan
          sodipodi:role="line"
          id="tspan588"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="114.81748"
          y="139.04338">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="114.81748"
          y="143.01213"
          id="tspan592">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="114.81748"
          y="146.98088"
          id="tspan594">hole (all keyboards)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-size:3.175px;fill:#0000ff;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        x="209.89595"
        y="139.32562"
        id="text590-4"><tspan
          sodipodi:role="line"
          id="tspan588-7"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="209.89595"
          y="139.32562">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="209.89595"
          y="143.29437"
          id="tspan592-6">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="209.89595"
          y="147.26312"
          id="tspan594-5">hole (DIY keyboard only)</tspan></text>
@@ -551,156 +551,156 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-size:3.175px;fill:#0000ff;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        x="79.595436"
        y="161.03325"
        id="text11391"><tspan
          sodipodi:role="line"
          id="tspan11389"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="161.03325">Common fixings used in this design:</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="165.002"
          id="tspan11409" /><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="168.97075"
          id="tspan11411">HEX6.3 = 6.3mm tapped hex = Jaycar.com.au part HP0920 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="172.9395"
          id="tspan11393">M3x15 = M3x15mm screw = Jaycar.com.au part HP0407 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="176.90825"
          id="tspan11397">M3x32 = M3x32mm screw = Jaycar.com.au part HP0418 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="180.877"
          id="tspan11399">HEX15 = 15mm tapped hex = Jaycar.com.au part HP0926 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="184.84575"
          id="tspan11401">NUT+WASHER = Nylon NUT &amp; WASHER = Jaycar.com.au part HP0150 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="188.8145"
          id="tspan11405">NUT = M3 nylon nut = Jaycar.com.au part HP0146 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="192.78325"
          id="tspan11407">M3x6 = M3x6mm screw = Jaycar.com.au part HP0400 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="196.752"
          id="tspan13391">HEX25 = M3x25 metal tappex hex = Jaycar.com.au part HP0907 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="200.72075"
          id="tspan11403" /><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
          x="79.595436"
          y="204.6895"
          id="tspan11395" /></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-size:3.175px;fill:#0000ff;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        x="303.54959"
        y="139.61711"
        id="text590-4-6"><tspan
          sodipodi:role="line"
          id="tspan588-7-9"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="303.54959"
          y="139.61711">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="303.54959"
          y="143.58586"
          id="tspan592-6-3">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="303.54959"
          y="147.55461"
          id="tspan594-5-7">hole (retail keyboard only)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-size:3.175px;fill:#0000ff;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        x="300.08261"
        y="163.36601"
        id="text590-4-4"><tspan
          sodipodi:role="line"
          id="tspan588-7-5"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="300.08261"
          y="163.36601">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="300.08261"
          y="167.33476"
          id="tspan592-6-2">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="300.08261"
          y="171.30351"
          id="tspan594-5-5">hole (DIY keyboard only).</tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="300.08261"
          y="175.27226"
          id="tspan29790">After attaching keyboard, then fit a HEX15.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-size:3.175px;fill:#0000ff;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        x="96.000572"
        y="220.72002"
        id="text590-47"><tspan
          sodipodi:role="line"
          id="tspan588-4"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="96.000572"
          y="220.72002">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="96.000572"
          y="224.68877"
          id="tspan592-4">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="96.000572"
          y="228.65752"
          id="tspan594-3">hole (all keyboards)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#0000ff;stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-size:3.175px;fill:#0000ff;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        x="185.57707"
        y="233.47687"
        id="text590-4-6-0"><tspan
          sodipodi:role="line"
          id="tspan588-7-9-7"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="185.57707"
          y="233.47687">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="185.57707"
          y="237.44562"
          id="tspan592-6-3-8">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:#0000ff;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="185.57707"
          y="241.41437"
          id="tspan594-5-7-6">hole (retail keyboard only)</tspan></text>
@@ -716,306 +716,306 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="101.00427"
        y="54.458992"
        id="text13508"><tspan
          sodipodi:role="line"
          id="tspan13506"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="101.00427"
          y="54.458992">STRATEGIC COMMUNICATIONS UNIT SC1</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="101.00427"
          y="64.160378"
          id="tspan13510"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="97.467308"
        y="116.87614"
        id="text13508-8"><tspan
          sodipodi:role="line"
          id="tspan13506-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="97.467308"
          y="116.87614">HOLD NO-SCROLL ON BOOT FOR LAUNCH OPTIONS</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="97.467308"
          y="124.81364"
          id="tspan13510-2"> </tspan></text>
     <g
        id="g24882"
        transform="translate(1.9930851)"
-       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.025;stroke-dasharray:none">
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.025;stroke-dasharray:none">
       <g
          id="g14874"
          transform="matrix(0.21166666,0,0,0.21166666,112.40586,29.446764)"
-         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
         <circle
            cx="243.38255"
            cy="279.31638"
            r="4.6090002"
            id="circle14269"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="275.68256"
            y="274.71637"
            width="27.65"
            height="9.217"
            id="rect14271"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="261.78256"
            cy="279.31638"
            r="4.6090002"
            id="circle14273"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="243.38255"
            cy="297.71637"
            r="4.6090002"
            id="circle14275"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="261.78256"
            cy="297.71637"
            r="4.6090002"
            id="circle14277"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="280.28256"
            cy="297.71637"
            r="4.6090002"
            id="circle14279"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="294.08255"
            y="293.11636"
            width="27.65"
            height="9.217"
            id="rect14281"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="243.38255"
            cy="316.11636"
            r="4.6090002"
            id="circle14283"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="257.18256"
            y="311.51636"
            width="27.65"
            height="9.217"
            id="rect14285"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="294.08255"
            y="311.51636"
            width="27.65"
            height="9.217"
            id="rect14287"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="238.78256"
            y="330.01639"
            width="27.65"
            height="9.217"
            id="rect14289"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="280.28256"
            cy="334.61636"
            r="4.6090002"
            id="circle14291"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="298.68256"
            cy="334.61636"
            r="4.6090002"
            id="circle14293"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="312.48254"
            y="330.01639"
            width="27.65"
            height="9.217"
            id="rect14295"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="238.78256"
            y="348.41641"
            width="27.65"
            height="9.217"
            id="rect14297"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="294.08255"
            y="348.41641"
            width="27.65"
            height="9.217"
            id="rect14299"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="330.98254"
            y="348.41641"
            width="27.65"
            height="9.217"
            id="rect14301"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="280.28256"
            cy="353.01639"
            r="4.6090002"
            id="circle14303"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="238.78256"
            y="366.81638"
            width="27.65"
            height="9.217"
            id="rect14305"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="275.68256"
            y="366.81638"
            width="27.65"
            height="9.217"
            id="rect14307"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="317.08255"
            cy="371.41641"
            r="4.6090002"
            id="circle14309"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="335.58255"
            cy="371.41641"
            r="4.6090002"
            id="circle14311"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <switch
            id="switch14317"
            transform="translate(12.18255,139.21638)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="207.12"
              y="144.67"
              id="trsvg45-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg7-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">U</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">U</tspan></text>
           <text
              x="207.12"
              y="144.67"
              id="trsvg45"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg7"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">U</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">U</tspan></text>
         </switch>
         <switch
            id="switch14323"
            transform="translate(12.18255,139.21638)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="207.64"
              y="163.10001"
              id="trsvg46-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg8-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">V</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">V</tspan></text>
           <text
              x="207.64"
              y="163.10001"
              id="trsvg46"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg8"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">V</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">V</tspan></text>
         </switch>
         <switch
            id="switch14329"
            transform="translate(12.18255,139.21638)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="205.05"
              y="181.31"
              id="trsvg47-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg9-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">W</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">W</tspan></text>
           <text
              x="205.05"
              y="181.31"
              id="trsvg47"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg9"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">W</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">W</tspan></text>
         </switch>
         <switch
            id="switch14335"
            transform="translate(12.18255,139.21638)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="207.63"
              y="199.97"
              id="trsvg48-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg10-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">X</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">X</tspan></text>
           <text
              x="207.63"
              y="199.97"
              id="trsvg48"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg10"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">X</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">X</tspan></text>
         </switch>
         <switch
            id="switch14341"
            transform="translate(12.18255,139.21638)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="207.66"
              y="218.41"
              id="trsvg49-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg11-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">Y</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">Y</tspan></text>
           <text
              x="207.66"
              y="218.41"
              id="trsvg49"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg11"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">Y</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">Y</tspan></text>
         </switch>
         <switch
            id="switch14347"
            transform="translate(12.18255,139.21638)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="208.17"
              y="236.84"
              id="trsvg50-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg12-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">Z</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">Z</tspan></text>
           <text
              x="208.17"
              y="236.84"
              id="trsvg50"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg12"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">Z</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">Z</tspan></text>
         </switch>
         <rect
            x="239.79231"
@@ -1023,771 +1023,771 @@
            width="27.65"
            height="9.217"
            id="rect14427"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="281.2623"
            cy="149.13669"
            r="4.6090002"
            id="circle14429"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="239.79231"
            y="162.93668"
            width="27.65"
            height="9.217"
            id="rect14431"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="276.66229"
            y="162.93668"
            width="27.65"
            height="9.217"
            id="rect14433"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="313.5423"
            y="162.93668"
            width="27.65"
            height="9.217"
            id="rect14435"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="244.39232"
            cy="186.03668"
            r="4.6090002"
            id="circle14437"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="258.2323"
            y="181.43668"
            width="27.65"
            height="9.217"
            id="rect14439"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="295.10229"
            y="181.43668"
            width="27.65"
            height="9.217"
            id="rect14441"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="336.5423"
            cy="186.03668"
            r="4.6090002"
            id="circle14443"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="239.79231"
            y="199.83667"
            width="27.65"
            height="9.217"
            id="rect14445"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="276.66229"
            y="199.83667"
            width="27.65"
            height="9.217"
            id="rect14447"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="318.1423"
            cy="204.43668"
            r="4.6090002"
            id="circle14449"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="331.94229"
            y="199.83667"
            width="27.65"
            height="9.217"
            id="rect14451"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="244.39232"
            cy="222.93668"
            r="4.6090002"
            id="circle14453"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="258.2323"
            y="218.23666"
            width="27.65"
            height="9.217"
            id="rect14455"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="299.69229"
            cy="222.93668"
            r="4.6090002"
            id="circle14457"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="281.2623"
            cy="241.33667"
            r="4.6090002"
            id="circle14459"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="262.83231"
            cy="241.33667"
            r="4.6090002"
            id="circle14461"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="244.39232"
            cy="241.33667"
            r="4.6090002"
            id="circle14463"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="239.79231"
            y="255.13669"
            width="27.65"
            height="9.217"
            id="rect14465"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <switch
            id="switch14549"
            transform="translate(206.7423,-230.5633)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.86"
              y="384.32001"
              id="trsvg64-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg26-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">N</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">N</tspan></text>
           <text
              x="12.86"
              y="384.32001"
              id="trsvg64"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg26"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">N</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">N</tspan></text>
         </switch>
         <switch
            id="switch14555"
            transform="translate(206.7423,-230.5633)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.26"
              y="402.75"
              id="trsvg65-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg27-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">O</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">O</tspan></text>
           <text
              x="12.26"
              y="402.75"
              id="trsvg65"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg27"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">O</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">O</tspan></text>
         </switch>
         <switch
            id="switch14561"
            transform="translate(206.7423,-230.5633)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.24"
              y="439.62"
              id="trsvg66-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg28-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">Q</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">Q</tspan></text>
           <text
              x="12.24"
              y="439.62"
              id="trsvg66"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg28"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">Q</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">Q</tspan></text>
         </switch>
         <switch
            id="switch14567"
            transform="translate(206.7423,-230.5633)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="13.01"
              y="421.17999"
              id="trsvg67-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg29-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">P</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">P</tspan></text>
           <text
              x="13.01"
              y="421.17999"
              id="trsvg67"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg29"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">P</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">P</tspan></text>
         </switch>
         <switch
            id="switch14573"
            transform="translate(206.7423,-230.5633)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.2"
              y="458.04999"
              id="trsvg68-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg30-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">R</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">R</tspan></text>
           <text
              x="12.2"
              y="458.04999"
              id="trsvg68"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg30"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">R</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">R</tspan></text>
         </switch>
         <switch
            id="switch14579"
            transform="translate(206.7423,-230.5633)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="13.38"
              y="476.48999"
              id="trsvg69-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg31-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">S</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">S</tspan></text>
           <text
              x="13.38"
              y="476.48999"
              id="trsvg69"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg31"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">S</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">S</tspan></text>
         </switch>
         <switch
            id="switch14585"
            transform="translate(206.7423,-230.5633)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="13.8"
              y="494.92001"
              id="trsvg70-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg32-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">T</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">T</tspan></text>
           <text
              x="13.8"
              y="494.92001"
              id="trsvg70"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg32"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">T</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">T</tspan></text>
         </switch>
       </g>
       <g
          id="g14981"
          transform="matrix(0.21166666,0,0,0.21166666,112.40586,31.370117)"
-         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
         <circle
            cx="37.650002"
            cy="140.10001"
            r="4.6090002"
            id="circle14349"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="51.490002"
            y="135.5"
            width="27.65"
            height="9.217"
            id="rect14351"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="74.760002"
            cy="158.5"
            r="4.6090002"
            id="circle14353"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="92.949997"
            cy="158.8"
            r="4.6090002"
            id="circle14355"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="111.4"
            cy="158.5"
            r="4.6090002"
            id="circle14357"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="33.049999"
            y="172.3"
            width="27.65"
            height="9.217"
            id="rect14359"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="74.489998"
            cy="176.89999"
            r="4.6090002"
            id="circle14361"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="88.360001"
            y="172.3"
            width="27.65"
            height="9.217"
            id="rect14363"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="129.89999"
            cy="176.89999"
            r="4.6090002"
            id="circle14365"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="33.049999"
            y="190.8"
            width="27.65"
            height="9.217"
            id="rect14367"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="74.43"
            cy="195.39999"
            r="4.6090002"
            id="circle14369"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="92.949997"
            cy="195.60001"
            r="4.6090002"
            id="circle14371"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="37.650002"
            cy="213.8"
            r="4.6090002"
            id="circle14373"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="37.650002"
            cy="232.2"
            r="4.6090002"
            id="circle14375"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="56.09"
            cy="232.2"
            r="4.6090002"
            id="circle14377"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="69.919998"
            y="227.60001"
            width="27.65"
            height="9.217"
            id="rect14379"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="111.4"
            cy="232.2"
            r="4.6090002"
            id="circle14381"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="33.049999"
            y="246.10001"
            width="27.65"
            height="9.217"
            id="rect14383"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="69.919998"
            y="246.10001"
            width="27.65"
            height="9.217"
            id="rect14385"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="111.4"
            cy="250.7"
            r="4.6090002"
            id="circle14387"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="37.650002"
            cy="269.10001"
            r="4.6090002"
            id="circle14389"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="56.09"
            cy="269.10001"
            r="4.6090002"
            id="circle14391"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="74.519997"
            cy="269.10001"
            r="4.6090002"
            id="circle14393"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="92.949997"
            cy="269.10001"
            r="4.6090002"
            id="circle14395"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="37.650002"
            cy="287.5"
            r="4.6090002"
            id="circle14397"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="56.09"
            cy="287.5"
            r="4.6090002"
            id="circle14399"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="37.650002"
            cy="306"
            r="4.6090002"
            id="circle14401"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="51.490002"
            y="301.39999"
            width="27.65"
            height="9.217"
            id="rect14403"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="88.360001"
            y="301.39999"
            width="27.65"
            height="9.217"
            id="rect14405"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="125.2"
            y="301.39999"
            width="27.65"
            height="9.217"
            id="rect14407"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="33.049999"
            y="319.79999"
            width="27.65"
            height="9.217"
            id="rect14409"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="74.519997"
            cy="324.39999"
            r="4.6090002"
            id="circle14411"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="88.360001"
            y="319.79999"
            width="27.65"
            height="9.217"
            id="rect14413"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="37.650002"
            cy="342.79999"
            r="4.6090002"
            id="circle14415"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="51.490002"
            y="338.20001"
            width="27.65"
            height="9.217"
            id="rect14417"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="92.949997"
            cy="342.79999"
            r="4.6090002"
            id="circle14419"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <circle
            cx="111.4"
            cy="342.79999"
            r="4.6090002"
            id="circle14421"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="33.049999"
            y="356.70001"
            width="27.65"
            height="9.217"
            id="rect14423"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <rect
            x="69.919998"
            y="356.70001"
            width="27.65"
            height="9.217"
            id="rect14425"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
         <switch
            id="switch14471"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="13.32"
              y="144.67"
              id="trsvg51-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg13-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">A</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">A</tspan></text>
           <text
              x="13.32"
              y="144.67"
              id="trsvg51"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg13"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">A</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">A</tspan></text>
         </switch>
         <switch
            id="switch14477"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="13.13"
              y="163.10001"
              id="trsvg52-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg14-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">B</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">B</tspan></text>
           <text
              x="13.13"
              y="163.10001"
              id="trsvg52"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg14"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">B</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">B</tspan></text>
         </switch>
         <switch
            id="switch14483"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.71"
              y="181.31"
              id="trsvg53-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg15-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">C</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">C</tspan></text>
           <text
              x="12.71"
              y="181.31"
              id="trsvg53"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg15"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">C</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">C</tspan></text>
         </switch>
         <switch
            id="switch14489"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.59"
              y="199.97"
              id="trsvg54-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg16-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">D</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">D</tspan></text>
           <text
              x="12.59"
              y="199.97"
              id="trsvg54"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg16"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">D</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">D</tspan></text>
         </switch>
         <switch
            id="switch14495"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="13.08"
              y="218.41"
              id="trsvg55-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg17-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">E</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">E</tspan></text>
           <text
              x="13.08"
              y="218.41"
              id="trsvg55"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg17"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">E</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">E</tspan></text>
         </switch>
         <switch
            id="switch14501"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="13.5"
              y="236.84"
              id="trsvg56-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg18-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">F</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">F</tspan></text>
           <text
              x="13.5"
              y="236.84"
              id="trsvg56"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg18"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">F</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">F</tspan></text>
         </switch>
         <switch
            id="switch14507"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.38"
              y="255.05"
              id="trsvg57-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg19-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">G</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">G</tspan></text>
           <text
              x="12.38"
              y="255.05"
              id="trsvg57"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg19"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">G</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">G</tspan></text>
         </switch>
         <switch
            id="switch14513"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.81"
              y="273.70999"
              id="trsvg58-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg20-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">H</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">H</tspan></text>
           <text
              x="12.81"
              y="273.70999"
              id="trsvg58"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg20"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">H</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">H</tspan></text>
         </switch>
         <switch
            id="switch14519"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="16.870001"
              y="292.14001"
              id="trsvg59-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg21-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">I</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">I</tspan></text>
           <text
              x="16.870001"
              y="292.14001"
              id="trsvg59"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg21"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">I</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">I</tspan></text>
         </switch>
         <switch
            id="switch14525"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="15.32"
              y="310.57999"
              id="trsvg60-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg22-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">J</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">J</tspan></text>
           <text
              x="15.32"
              y="310.57999"
              id="trsvg60"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg22"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">J</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">J</tspan></text>
         </switch>
         <switch
            id="switch14531"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="12.66"
              y="329.01001"
              id="trsvg61-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg23-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">K</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">K</tspan></text>
           <text
              x="12.66"
              y="329.01001"
              id="trsvg61"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg23"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">K</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">K</tspan></text>
         </switch>
         <switch
            id="switch14537"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="13.99"
              y="347.45001"
              id="trsvg62-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg24-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">L</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">L</tspan></text>
           <text
              x="13.99"
              y="347.45001"
              id="trsvg62"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg24"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">L</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">L</tspan></text>
         </switch>
         <switch
            id="switch14543"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="11.8"
              y="365.88"
              id="trsvg63-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg25-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">M</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">M</tspan></text>
           <text
              x="11.8"
              y="365.88"
              id="trsvg63"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg25"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">M</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">M</tspan></text>
         </switch>
         <rect
            x="33.049999"
@@ -1795,580 +1795,580 @@
            width="27.65"
            height="9.217"
            id="rect14587"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none" />
       </g>
       <g
          id="g24540"
-         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.025;stroke-dasharray:none">
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.025;stroke-dasharray:none">
         <rect
            x="205.99742"
            y="60.046719"
            width="5.8525829"
            height="1.9509315"
            id="rect14589"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="213.80792"
            y="60.046719"
            width="5.8525829"
            height="1.9509315"
            id="rect14591"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="213.80792"
            y="60.046719"
            width="5.8525829"
            height="1.9509315"
            id="rect14593"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="221.61842"
            y="60.046719"
            width="5.8525829"
            height="1.9509315"
            id="rect14595"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="229.42892"
            y="60.046719"
            width="5.8525829"
            height="1.9509315"
            id="rect14597"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="203.07643"
            cy="61.020386"
            r="0.97557169"
            id="circle14599"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="203.07643"
            cy="64.915047"
            r="0.97557169"
            id="circle14601"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="206.97108"
            cy="64.915047"
            r="0.97557169"
            id="circle14603"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="209.91325"
            y="63.941383"
            width="5.8525829"
            height="1.9509315"
            id="rect14605"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="217.70259"
            y="63.941383"
            width="5.8525829"
            height="1.9509315"
            id="rect14607"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="225.51309"
            y="63.941383"
            width="5.8525829"
            height="1.9509315"
            id="rect14609"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="203.07643"
            cy="68.830887"
            r="0.97557169"
            id="circle14611"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="206.97108"
            cy="68.830887"
            r="0.97557169"
            id="circle14613"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="210.88693"
            cy="68.830887"
            r="0.97557169"
            id="circle14615"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="213.80792"
            y="67.836044"
            width="5.8525829"
            height="1.9509315"
            id="rect14617"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="221.61842"
            y="67.836044"
            width="5.8525829"
            height="1.9509315"
            id="rect14619"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="203.07643"
            cy="72.725548"
            r="0.97557169"
            id="circle14621"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="206.97108"
            cy="72.725548"
            r="0.97557169"
            id="circle14623"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="210.88693"
            cy="72.725548"
            r="0.97557169"
            id="circle14625"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="214.78159"
            cy="72.725548"
            r="0.97557169"
            id="circle14627"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="217.70259"
            y="71.751884"
            width="5.8525829"
            height="1.9509315"
            id="rect14629"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="203.07643"
            cy="76.620216"
            r="0.97557169"
            id="circle14631"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="206.97108"
            cy="76.620216"
            r="0.97557169"
            id="circle14633"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="210.88693"
            cy="76.620216"
            r="0.97557169"
            id="circle14635"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="214.78159"
            cy="76.620216"
            r="0.97557169"
            id="circle14637"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="218.67625"
            cy="76.620216"
            r="0.97557169"
            id="circle14639"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="210.88693"
            cy="80.536049"
            r="0.97557169"
            id="circle14641"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="214.78159"
            cy="80.536049"
            r="0.97557169"
            id="circle14643"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="218.67625"
            cy="80.536049"
            r="0.97557169"
            id="circle14645"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="222.5921"
            cy="80.536049"
            r="0.97557169"
            id="circle14647"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="202.10275"
            y="79.541214"
            width="5.8525829"
            height="1.9509315"
            id="rect14649"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="203.07643"
            cy="68.830887"
            r="0.97557169"
            id="circle14651"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="206.97108"
            cy="68.830887"
            r="0.97557169"
            id="circle14653"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="210.88693"
            cy="68.830887"
            r="0.97557169"
            id="circle14655"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="213.80792"
            y="67.836044"
            width="5.8525829"
            height="1.9509315"
            id="rect14657"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="221.61842"
            y="67.836044"
            width="5.8525829"
            height="1.9509315"
            id="rect14659"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="218.67625"
            cy="84.43071"
            r="0.97557169"
            id="circle14661"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="222.5921"
            cy="84.43071"
            r="0.97557169"
            id="circle14663"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="226.48676"
            cy="84.43071"
            r="0.97557169"
            id="circle14665"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="202.10275"
            y="83.457054"
            width="5.8525829"
            height="1.9509315"
            id="rect14667"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="209.91325"
            y="83.457054"
            width="5.8525829"
            height="1.9509315"
            id="rect14669"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="226.48676"
            cy="88.325386"
            r="0.97557169"
            id="circle14671"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="230.40259"
            cy="88.325386"
            r="0.97557169"
            id="circle14673"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="209.91325"
            y="87.351715"
            width="5.8525829"
            height="1.9509315"
            id="rect14675"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="217.70259"
            y="87.351715"
            width="5.8525829"
            height="1.9509315"
            id="rect14677"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="202.10275"
            y="87.351715"
            width="5.8525829"
            height="1.9509315"
            id="rect14679"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="202.10275"
            y="91.246384"
            width="5.8525829"
            height="1.9509315"
            id="rect14681"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="209.91325"
            y="91.246384"
            width="5.8525829"
            height="1.9509315"
            id="rect14683"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="209.91325"
            y="91.246384"
            width="5.8525829"
            height="1.9509315"
            id="rect14685"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="217.70259"
            y="91.246384"
            width="5.8525829"
            height="1.9509315"
            id="rect14687"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="225.51309"
            y="91.246384"
            width="5.8525829"
            height="1.9509315"
            id="rect14689"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="202.10275"
            y="95.162216"
            width="5.8525829"
            height="1.9509315"
            id="rect14691"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="234.29726"
            cy="92.241219"
            r="0.97557169"
            id="circle14693"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="209.91325"
            y="95.162216"
            width="5.8525829"
            height="1.9509315"
            id="rect14695"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="217.70259"
            y="95.162216"
            width="5.8525829"
            height="1.9509315"
            id="rect14697"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="217.70259"
            y="95.162216"
            width="5.8525829"
            height="1.9509315"
            id="rect14699"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="225.51309"
            y="95.162216"
            width="5.8525829"
            height="1.9509315"
            id="rect14701"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="233.32359"
            y="95.162216"
            width="5.8525829"
            height="1.9509315"
            id="rect14703"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <switch
            id="switch14709"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="209.5"
              y="328.79001"
              id="trsvg71-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg33-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">1</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">1</tspan></text>
           <text
              x="209.5"
              y="328.79001"
              id="trsvg71"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg33"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">1</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">1</tspan></text>
         </switch>
         <switch
            id="switch14715"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="209.03"
              y="347.22"
              id="trsvg72-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg34-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">2</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">2</tspan></text>
           <text
              x="209.03"
              y="347.22"
              id="trsvg72"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg34"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">2</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">2</tspan></text>
         </switch>
         <switch
            id="switch14721"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="208.84"
              y="365.42999"
              id="trsvg73-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg35-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">3</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">3</tspan></text>
           <text
              x="208.84"
              y="365.42999"
              id="trsvg73"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg35"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">3</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">3</tspan></text>
         </switch>
         <switch
            id="switch14727"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="209.14"
              y="384.09"
              id="trsvg74-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg36-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">4</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">4</tspan></text>
           <text
              x="209.14"
              y="384.09"
              id="trsvg74"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg36"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">4</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">4</tspan></text>
         </switch>
         <switch
            id="switch14733"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="208.8"
              y="402.51999"
              id="trsvg75-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg37-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">5</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">5</tspan></text>
           <text
              x="208.8"
              y="402.51999"
              id="trsvg75"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg37"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">5</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">5</tspan></text>
         </switch>
         <switch
            id="switch14739"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="208.89"
              y="420.95999"
              id="trsvg76-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg38-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">6</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">6</tspan></text>
           <text
              x="208.89"
              y="420.95999"
              id="trsvg76"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg38"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">6</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">6</tspan></text>
         </switch>
         <switch
            id="switch14745"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="208.78999"
              y="439.17001"
              id="trsvg77-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg39-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">7</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">7</tspan></text>
           <text
              x="208.78999"
              y="439.17001"
              id="trsvg77"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg39"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">7</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">7</tspan></text>
         </switch>
         <switch
            id="switch14751"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="208.84"
              y="457.82001"
              id="trsvg78-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg40-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">8</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">8</tspan></text>
           <text
              x="208.84"
              y="457.82001"
              id="trsvg78"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg40"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">8</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">8</tspan></text>
         </switch>
         <switch
            id="switch14757"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="208.83"
              y="476.26001"
              id="trsvg79-yue"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg41-yue"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">9</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">9</tspan></text>
           <text
              x="208.83"
              y="476.26001"
              id="trsvg79"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg41"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">9</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">9</tspan></text>
         </switch>
         <switch
            id="switch14761"
            transform="matrix(0.21166666,0,0,0.21166666,154.13909,-7.60195)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="208.87"
              y="494.70001"
              id="trsvg80"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg42"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">0</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">0</tspan></text>
         </switch>
         <rect
            x="201.93677"
@@ -2376,127 +2376,127 @@
            width="5.8525829"
            height="1.9509315"
            id="rect14691-6"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="209.74727"
            y="104.66101"
            width="5.8525829"
            height="1.9509315"
            id="rect14695-6"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="225.34711"
            y="104.66101"
            width="5.8525829"
            height="1.9509315"
            id="rect14701-5"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="233.15761"
            y="104.66101"
            width="5.8525829"
            height="1.9509315"
            id="rect14703-0"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <text
            x="198.71306"
            y="106.60837"
            id="trsvg80-8"
-           style="font-size:3.81px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-dasharray:none"><tspan
+           style="font-size:3.81px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-dasharray:none"><tspan
              id="trsvg42-7"
-             style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-dasharray:none">,</tspan></text>
+             style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-dasharray:none">,</tspan></text>
         <rect
            x="205.75267"
            y="101.06726"
            width="5.8525829"
            height="1.9509315"
            id="rect14589-2"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <rect
            x="221.37367"
            y="101.06726"
            width="5.8525829"
            height="1.9509315"
            id="rect14595-2"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="202.83168"
            cy="102.04092"
            r="0.97557169"
            id="circle14599-1"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <switch
            id="switch14709-0"
            transform="matrix(0.21166666,0,0,0.21166666,153.89435,33.418585)"
-           style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">
           <text
              x="209.5"
              y="328.79001"
              id="trsvg71-yue-6"
              systemLanguage="yue"
-             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'DejaVu Sans', Sans, sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg33-yue-1"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">1</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.11811024;stroke-dasharray:none">1</tspan></text>
           <text
              x="209.5"
              y="328.79001"
              id="trsvg71-5"
-             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
+             style="font-size:18px;font-family:'Helvetica Neue';fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none"><tspan
                id="trsvg33-9"
-               style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">&quot;</tspan></text>
+               style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:0.11811024;stroke-dasharray:none">&quot;</tspan></text>
         </switch>
         <circle
            cx="218.67627"
            cy="105.63673"
            r="0.97557169"
            id="circle14661-1"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="222.59227"
            cy="105.63673"
            r="0.97557169"
            id="circle14663-7"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="214.25262"
            cy="102.04324"
            r="0.97557169"
            id="circle14661-1-4"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="218.16862"
            cy="102.04324"
            r="0.97557169"
            id="circle14663-7-9"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
         <circle
            cx="229.90341"
            cy="102.04324"
            r="0.97557169"
            id="circle14663-7-9-0"
-           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:#0000ff;stroke-opacity:1;stroke-dasharray:none" />
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.025;stroke:none;stroke-opacity:1;stroke-dasharray:none" />
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.14075px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0241763;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.14075px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0241763;stroke-dasharray:none;stroke-opacity:1"
        x="72.187378"
        y="89.542953"
        id="text13508-8-9"
        transform="scale(0.96687894,1.0342556)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.14075px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0241763;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.14075px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0241763;stroke-dasharray:none;stroke-opacity:1"
          x="72.187378"
          y="89.542953"
          id="tspan13510-2-7">RESET</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="70.07637"
        y="62.616249"
        id="text13508-8-9-7"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="70.07637"
          y="62.616249"
          id="tspan13510-2-7-1">BOOT</tspan></text>
@@ -2506,69 +2506,69 @@
        id="path26035" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.0309999;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0309999;stroke-dasharray:none;stroke-opacity:1"
        x="274.58163"
        y="59.500145"
        id="text26620"><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="59.500145"
          id="tspan27870">ALT - Utilities Menu</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="64.791809"
          id="tspan27874">CTRL - Pause Boot</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="70.083473"
          id="tspan27876">NO SCROLL - Launch Core Selection</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="75.37513"
          id="tspan27878">MEGA - Select C64 Mode</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="80.666794"
          id="tspan27872">0 - 9 - Select MEGA650.ROM -- MEGA659.ROM</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="85.958458"
          id="tspan27882">GO64 - Switch from MEGA65 to C64 Mode</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="91.250114"
          id="tspan28706">SYS 58552 - Switch from C64 to MEGA65 Mode</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="96.541779"
          id="tspan28712">SHIFT+RUN - Launch First Program on Disk</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="101.83344"
          id="tspan28724" /><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
          x="274.58163"
          y="107.12511"
          id="tspan28720">LONG-PRESS POWER TO TURN OFF</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.0309999;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0309999;stroke-dasharray:none;stroke-opacity:1"
        x="285.73172"
        y="52.826958"
        id="text28716"><tspan
          sodipodi:role="line"
          id="tspan28714"
-         style="font-size:6.35px;stroke-width:0.031;fill:#0000ff;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1"
+         style="font-size:6.35px;stroke-width:0.031;fill:#0000ff;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;stroke:none"
          x="285.73172"
          y="52.826958">AUTHORISATION CODES</tspan></text>
     <circle
@@ -2740,33 +2740,33 @@
        r="1.5" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="37.755783"
        y="111.21241"
        id="text13508-8-8"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="37.755783"
          y="111.21241"
          id="tspan13510-2-73">INTERFACE</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="37.755783"
          y="117.38602"
          id="tspan13446">PORT 1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="37.360432"
        y="151.93571"
        id="text13508-8-8-6"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="37.360432"
          y="151.93571"
          id="tspan13510-2-73-1">INTERFACE</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="37.360432"
          y="158.10933"
          id="tspan13446-2">PORT 2</tspan></text>
