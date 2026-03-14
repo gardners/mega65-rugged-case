@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
-   sodipodi:docname="lower-laser-cut3.svg"
+   sodipodi:docname="lower-laser-cut4.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.9061553"
-     inkscape:cx="266.50246"
-     inkscape:cy="441.3547"
+     inkscape:zoom="0.78474364"
+     inkscape:cx="1236.0725"
+     inkscape:cy="198.79103"
      inkscape:window-width="1472"
      inkscape:window-height="833"
-     inkscape:window-x="0"
+     inkscape:window-x="1"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
@@ -216,37 +216,67 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146"
        cx="105.5127"
-       cy="15.0127"
+       cy="30.887699"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-5"
-       cx="105.5127"
-       cy="266.5127"
+       cx="87.521042"
+       cy="282.38766"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-5-8"
+       cx="214.97472"
+       cy="277.72827"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-3-5"
-       cx="295.5127"
-       cy="266.5127"
+       cx="350.54587"
+       cy="282.38766"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1"
-       cx="26.012699"
-       cy="145.0127"
+       cx="37.380524"
+       cy="159.80859"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-93-1-4"
+       cx="17.282961"
+       cy="123.23313"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-93-1-49"
+       cx="17.378319"
+       cy="188.40118"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-93-1-1"
+       cx="58.598217"
+       cy="188.44417"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-93-1-5"
+       cx="58.705688"
+       cy="123.23979"
        r="1.5" />
     <g
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       transform="translate(-374.68162,93.123577)"
+       transform="translate(-374.68162,108.99858)"
        id="g13368" />
     <g
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g15804"
-       transform="translate(-374.68162,93.123577)">
+       transform="translate(-374.68162,108.99858)">
       <text
          x="300.98901"
          y="267.7522"
@@ -257,7 +287,7 @@
          opacity="0"
          stroke-opacity="0"
          id="text15798"
-         style="-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold'" />
       <g
          class="stroked-text"
          id="g15802">
@@ -268,7 +298,7 @@
     <g
        style="fill:none;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g15812"
-       transform="translate(-374.68162,93.123577)">
+       transform="translate(-374.68162,108.99858)">
       <text
          x="300.98901"
          y="264.7522"
@@ -279,7 +309,7 @@
          opacity="0"
          stroke-opacity="0"
          id="text15806"
-         style="-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold'" />
       <g
          class="stroked-text"
          id="g15810">
@@ -290,7 +320,7 @@
     <g
        style="fill:none;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g15820"
-       transform="translate(-374.68162,93.123577)">
+       transform="translate(-374.68162,108.99858)">
       <text
          x="300.98901"
          y="261.7522"
@@ -301,7 +331,7 @@
          opacity="0"
          stroke-opacity="0"
          id="text15814"
-         style="-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold'" />
       <g
          class="stroked-text"
          id="g15818">
@@ -312,7 +342,7 @@
     <g
        style="fill:none;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g15828"
-       transform="translate(-374.68162,93.123577)">
+       transform="translate(-374.68162,108.99858)">
       <text
          x="300.98901"
          y="258.7522"
@@ -323,7 +353,7 @@
          opacity="0"
          stroke-opacity="0"
          id="text15822"
-         style="-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold'" />
       <g
          class="stroked-text"
          id="g15826">
@@ -334,7 +364,7 @@
     <g
        style="fill:none;stroke:#000000;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="g15836"
-       transform="translate(-374.68162,93.123577)">
+       transform="translate(-374.68162,108.99858)">
       <text
          x="300.98901"
          y="255.7522"
@@ -345,7 +375,7 @@
          opacity="0"
          stroke-opacity="0"
          id="text15830"
-         style="-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold'" />
       <g
          class="stroked-text"
          id="g15834">
@@ -354,388 +384,415 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.025;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 379.575,129.44499 h -78.2 V 149.495 h 78.2 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 379.575,145.32 h -78.2 v 20.05001 h 78.2 z"
        id="path19615"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.025;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 284.325,129.44499 V 149.495 h -77.19965 v -20.05001 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 284.325,145.32 v 20.05001 H 207.12535 V 145.32 Z"
        id="path19985"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.025;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 189.075,129.44499 V 149.495 h -77.19965 v -20.05001 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 189.075,145.32 v 20.05001 H 111.87535 V 145.32 Z"
        id="path20356"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.025;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 93.825,129.445 v 20.05 H 73.77535 v -20.05001 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 93.825,145.32001 v 20.05 H 73.77535 V 145.32 Z"
        id="path20728"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.025;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 379.575,156.43249 v 19.05 21.04951 h -4.762 v 18.05 h -19.05 v 18.05049 l 19.05,0.008 V 253.682 h -59.15 v -20.05 h -18.235 l -0.009,20.05 H 125.428 v -20.05 H 69.0125 v -39.09975 h 4.7625 v -19.05 -0.0123 -19.03766 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 379.575,172.3075 v 19.05 21.04951 h -4.762 v 18.05 h -19.05 v 18.05049 l 19.05,0.008 v 21.04151 h -59.15 v -20.05 h -18.235 l -0.009,20.05 H 125.428 v -20.05 H 69.0125 v -39.09975 h 4.7625 v -19.05 -0.0123 -19.03766 z"
        id="path21101"
        sodipodi:nodetypes="cccccccccccccccccccccc" />
     <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.0340042;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="rect21475"
        width="11.071"
        height="2.711"
        x="-374.754"
-       y="119.51701"
+       y="135.39201"
        rx="1.1737759"
        ry="1.5761604"
        transform="scale(-1,1)" />
     <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.0340043;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="rect21850"
        width="10.070996"
        height="2.7109957"
        x="-88.753998"
-       y="119.51701"
+       y="135.39201"
        rx="1.1737758"
        ry="1.5761604"
        transform="scale(-1,1)" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-6"
        cx="102.5127"
-       cy="123.5127"
+       cy="139.38771"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-6-3"
        cx="226.5127"
-       cy="123.5127"
+       cy="139.38771"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#800000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-1"
        cx="350.5127"
-       cy="123.5127"
+       cy="139.38771"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-1-5"
-       cx="382.5127"
-       cy="155.0127"
+       cx="383.04187"
+       cy="168.77107"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-1-9"
        cx="383.0127"
-       cy="230.5127"
+       cy="246.38771"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#800000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-1-9-4"
        cx="308.0127"
-       cy="254.5127"
+       cy="270.38766"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#800000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-1-9-4-9"
        cx="119.0127"
-       cy="254.5127"
+       cy="270.38766"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#800000;stroke-width:0.5;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-1-9-0"
        cx="382.5127"
-       cy="244.5127"
+       cy="260.3877"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-93-1-0-1-9-0-9"
        cx="87.012703"
-       cy="245.5127"
+       cy="261.3877"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-0"
        cx="79.012703"
-       cy="48.012699"
+       cy="63.887703"
        r="3" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0254;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="path6146-0-2"
        cx="79.012703"
-       cy="78.012703"
+       cy="93.887695"
        r="3" />
     <path
        id="rect5113-8"
-       style="fill:none;stroke:#ff0000;stroke-width:0.0220005"
-       d="m 190.011,273.76174 c 0,-2.07792 2.23025,-3.75075 5.00057,-3.75075 h 40.00186 c 2.77032,0 5.00057,1.67283 5.00057,3.75075 l -6.1e-4,1.22339 117.70534,-8.8e-4 c 5.52949,0 10.70355,-1.51639 15.13955,-4.19103 -0.54011,-0.81173 -0.84558,-1.76045 -0.84558,-2.78052 0,-2.76142 2.23858,-5 5,-5 1.31628,0 2.51377,0.50864 3.42996,1.35711 4.70763,-5.48455 7.54193,-12.71167 7.54193,-20.64774 V 110.01292 H 263.01289 V 10.015409 H 95.014355 v 11.247254 c 0,2.077909 -2.230423,3.750675 -5.000728,3.750675 h -20.00188 c -2.770305,0 -5.000728,-1.672766 -5.000728,-3.750675 V 10.015409 H 40.281262 c -12.917744,0 -23.894069,8.277358 -28.253572,19.997229 H 56.013 c 2.769988,0 5,2.230224 5,5.000212 v 60.000045 c 0,2.769987 -2.230012,5.000215 -5,5.000215 H 10.015409 V 180.0129 H 56.013 c 2.769994,0 5,2.23021 5,5.00021 v 59.99984 c 0,2.77 -0.013,4.9997 -0.013,4.9997 v 0 c 0,0 -0.06326,12.93422 0.06985,19.96716 0.05984,3.16146 3.547131,5.00444 5.211148,5.00444 l 123.725562,-0.002 z"
-       sodipodi:nodetypes="sssscscsscsccccsssscscssssccsssccsscs" />
+       style="fill:none;stroke:#ff0000;stroke-width:0.25"
+       d="m 70.011747,40.888339 h 20.00188 c 2.770305,0 5.000728,-1.672766 5.000728,-3.750675 V 25.89041 H 263.01289 v 99.99752 h 124.97126 v 133.70915 c 0,7.93607 -2.8343,15.16319 -7.54193,20.64774 -0.91619,-0.84847 -2.11368,-1.35711 -3.42996,-1.35711 -2.76142,0 -5,2.23858 -5,5 0,1.02007 0.30547,1.96879 0.84558,2.78052 -4.436,2.67464 -9.61006,4.19103 -15.13955,4.19103 l -117.70534,8.8e-4 6.1e-4,-1.22339 c 0,-2.07792 -2.23025,-3.75075 -5.00057,-3.75075 h -40.00186 c -2.77032,0 -5.00057,1.67283 -5.00057,3.75075 l -0.004,1.22051 -123.725562,0.002 c -1.664017,0 -5.151308,-1.84298 -5.211148,-5.00444 C 60.93674,278.82188 61,265.88766 61,265.88766 v 0 c 0,0 0.013,-2.2297 0.013,-4.9997 v -59.99984 c 0,-2.77 -2.230006,-5.00021 -5,-5.00021 H 10.015409 V 115.88812 H 56.013 c 2.769988,0 5,-2.23023 5,-5.00022 V 50.887851 c -0.01331,-5.999221 3.914024,-9.995584 8.998747,-9.999512 z"
+       sodipodi:nodetypes="cssccsssccsscsssscscsscsccccsscc" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
        x="114.81748"
-       y="139.04338"
+       y="154.9184"
        id="text590"><tspan
          sodipodi:role="line"
          id="tspan588"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="114.81748"
-         y="139.04338">M3x15 from front through panel into HEX6.3 </tspan><tspan
+         y="154.9184">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="114.81748"
-         y="143.01213"
+         y="158.88715"
          id="tspan592">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="114.81748"
-         y="146.98088"
+         y="162.8559"
          id="tspan594">hole (all keyboards)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
        x="209.89595"
-       y="139.32562"
+       y="155.20064"
        id="text590-4"><tspan
          sodipodi:role="line"
          id="tspan588-7"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="209.89595"
-         y="139.32562">M3x15 from front through panel into HEX6.3 </tspan><tspan
+         y="155.20064">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="209.89595"
-         y="143.29437"
+         y="159.16939"
          id="tspan592-6">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="209.89595"
-         y="147.26312"
+         y="163.13814"
          id="tspan594-5">hole (DIY keyboard only)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
+       x="-105.48837"
+       y="270.7735"
+       id="text590-4-40"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
+         x="-105.48837"
+         y="270.7735"
+         id="tspan594-5-2">Spacer to bring harddrive height to 28mm</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
+         x="-105.48837"
+         y="274.74225"
+         id="tspan2">Place on top of level 2, under hardrive,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
+         x="-105.48837"
+         y="278.711"
+         id="tspan3">aligning holes.</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
+         x="-105.48837"
+         y="282.67975"
+         id="tspan1" /></text>
     <path
-       style="fill:#0000ff;stroke:#fc00ff;stroke-width:0.225;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow3)"
-       d="m 94.726171,225.77446 -2.776566,6.75078"
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.22477499;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3)"
+       d="m 94.726171,241.64947 -2.776566,6.75078"
        id="path857" />
     <path
-       style="fill:#0000ff;stroke:#fc00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2)"
-       d="m 121.94017,136.21777 -7.16315,-5.06505"
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.22477499;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-2)"
+       d="m 121.94017,152.09278 -7.16315,-5.06505"
        id="path857-1"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#0000ff;stroke:#fc00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-27)"
-       d="m 232.13621,137.11015 -3.13643,-6.74651"
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.22477499;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-27)"
+       d="m 232.13621,152.98516 -3.13643,-6.74651"
        id="path857-9"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#0000ff;stroke:#fc00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-3)"
-       d="m 335.53148,136.70673 6.67275,-5.62125"
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.22477499;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-3)"
+       d="m 335.53148,152.58174 6.67275,-5.62125"
        id="path857-0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#0000ff;stroke:#ff00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-6)"
-       d="m 369.0172,163.70427 8.47473,-5.5788"
+       style="fill:#0000ff;stroke:#ff00ff;stroke-width:0.22477499;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-6)"
+       d="m 369.0172,179.57928 8.47473,-5.5788"
        id="path857-6"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#0000ff;stroke:#fc00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-1)"
-       d="m 338.58868,178.51681 31.36376,35.15234"
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.22477499;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-1)"
+       d="m 338.58868,194.39182 31.36376,35.15234"
        id="path857-7"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#00ff00;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="79.595436"
-       y="161.03325"
+       y="176.90826"
        id="text11391"><tspan
          sodipodi:role="line"
          id="tspan11389"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="161.03325">Common fixings used in this design:</tspan><tspan
+         y="176.90826">Common fixings used in this design:</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="165.002"
+         y="180.87701"
          id="tspan11409" /><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="168.97075"
+         y="184.84576"
          id="tspan11411">HEX6.3 = 6.3mm tapped hex = Jaycar.com.au part HP0920 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="172.9395"
+         y="188.81451"
          id="tspan11393">M3x15 = M3x15mm screw = Jaycar.com.au part HP0407 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="176.90825"
+         y="192.78326"
          id="tspan11397">M3x32 = M3x32mm screw = Jaycar.com.au part HP0418 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="180.877"
+         y="196.75201"
          id="tspan11399">HEX15 = 15mm tapped hex = Jaycar.com.au part HP0926 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="184.84575"
+         y="200.72076"
          id="tspan11401">NUT+WASHER = Nylon NUT &amp; WASHER = Jaycar.com.au part HP0150 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="188.8145"
+         y="204.68951"
          id="tspan11405">NUT = M3 nylon nut = Jaycar.com.au part HP0146 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="192.78325"
+         y="208.65826"
          id="tspan11407">M3x6 = M3x6mm screw = Jaycar.com.au part HP0400 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="196.752"
+         y="212.62701"
          id="tspan13391">HEX25 = M3x25 metal tappex hex = Jaycar.com.au part HP0907 or equivalent</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="200.72075"
+         y="216.59576"
          id="tspan11403" /><tspan
          sodipodi:role="line"
-         style="stroke-width:0.025;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.025"
          x="79.595436"
-         y="204.6895"
+         y="220.56451"
          id="tspan11395" /></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
        x="303.54959"
-       y="139.61711"
+       y="155.49213"
        id="text590-4-6"><tspan
          sodipodi:role="line"
          id="tspan588-7-9"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="303.54959"
-         y="139.61711">M3x15 from front through panel into HEX6.3 </tspan><tspan
+         y="155.49213">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="303.54959"
-         y="143.58586"
+         y="159.46088"
          id="tspan592-6-3">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="303.54959"
-         y="147.55461"
+         y="163.42963"
          id="tspan594-5-7">hole (retail keyboard only)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
        x="300.08261"
-       y="163.36601"
+       y="179.24103"
        id="text590-4-4"><tspan
          sodipodi:role="line"
          id="tspan588-7-5"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="300.08261"
-         y="163.36601">M3x15 from front through panel into HEX6.3 </tspan><tspan
+         y="179.24103">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="300.08261"
-         y="167.33476"
+         y="183.20978"
          id="tspan592-6-2">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="300.08261"
-         y="171.30351"
+         y="187.17853"
          id="tspan594-5-5">hole (DIY keyboard only).</tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="300.08261"
-         y="175.27226"
+         y="191.14728"
          id="tspan29790">After attaching keyboard, then fit a HEX15.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
        x="96.000572"
-       y="220.72002"
+       y="236.59503"
        id="text590-47"><tspan
          sodipodi:role="line"
          id="tspan588-4"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="96.000572"
-         y="220.72002">M3x15 from front through panel into HEX6.3 </tspan><tspan
+         y="236.59503">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="96.000572"
-         y="224.68877"
+         y="240.56378"
          id="tspan592-4">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="96.000572"
-         y="228.65752"
+         y="244.53253"
          id="tspan594-3">hole (all keyboards)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
        x="185.57707"
-       y="233.47687"
+       y="249.35188"
        id="text590-4-6-0"><tspan
          sodipodi:role="line"
          id="tspan588-7-9-7"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="185.57707"
-         y="233.47687">M3x15 from front through panel into HEX6.3 </tspan><tspan
+         y="249.35188">M3x15 from front through panel into HEX6.3 </tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="185.57707"
-         y="237.44562"
+         y="253.32063"
          id="tspan592-6-3-8">behind and then through keyboard mounting</tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.0254;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#00ff00"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#00ff00;stroke:none;stroke-width:0.0254;stroke-opacity:1"
          x="185.57707"
-         y="241.41437"
+         y="257.28937"
          id="tspan594-5-7-6">hole (retail keyboard only)</tspan></text>
     <path
-       style="fill:#0000ff;stroke:#fc00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-8)"
-       d="M 183.60939,238.63032 157.6013,251.27645"
+       style="fill:none;stroke:#ff00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-8)"
+       d="m 183.67228,254.58618 -54.04672,12.68528"
        id="path857-3"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#0000ff;stroke:#fc00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-14)"
-       d="m 256.65766,236.4545 20.69777,14.69814"
+       style="fill:none;stroke:#ff00ff;stroke-width:0.225;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3-14)"
+       d="m 256.64387,252.38704 38.09965,15.57997"
        id="path857-06"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="101.00427"
-       y="54.458992"
+       y="70.333992"
        id="text13508"><tspan
          sodipodi:role="line"
          id="tspan13506"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="101.00427"
-         y="54.458992">STRATEGIC COMMUNICATIONS UNIT SC1</tspan><tspan
+         y="70.333992">STRATEGIC COMMUNICATIONS UNIT SC1</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="101.00427"
-         y="64.160378"
+         y="80.035378"
          id="tspan13510"> </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="97.467308"
-       y="116.87614"
+       y="132.75114"
        id="text13508-8"><tspan
          sodipodi:role="line"
          id="tspan13506-9"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="97.467308"
-         y="116.87614">HOLD NO-SCROLL ON BOOT FOR LAUNCH OPTIONS</tspan><tspan
+         y="132.75114">HOLD NO-SCROLL ON BOOT FOR LAUNCH OPTIONS</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="97.467308"
-         y="124.81364"
+         y="140.68864"
          id="tspan13510-2"> </tspan></text>
     <text
        x="160.81799"
@@ -922,7 +979,8 @@
          id="trsvg33-yue-1"
          style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1">1</tspan></text>
     <g
-       id="g530">
+       id="g530"
+       transform="translate(0,15.875)">
       <circle
          cx="165.91492"
          cy="88.568726"
@@ -2358,105 +2416,34 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.14075px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0241763;stroke-dasharray:none;stroke-opacity:1"
        x="72.187378"
-       y="89.542953"
+       y="104.89216"
        id="text13508-8-9"
-       transform="scale(0.96687894,1.0342556)"><tspan
+       transform="scale(0.96687898,1.0342556)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.14075px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0241763;stroke-dasharray:none;stroke-opacity:1"
          x="72.187378"
-         y="89.542953"
+         y="104.89216"
          id="tspan13510-2-7">RESET</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="70.07637"
-       y="62.616249"
+       y="78.491241"
        id="text13508-8-9-7"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="70.07637"
-         y="62.616249"
+         y="78.491241"
          id="tspan13510-2-7-1">BOOT</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.031;stroke-dasharray:none;stroke-opacity:1"
-       d="M 263.01397,28.474484 388.5048,28.135548 387.9856,110.01379"
-       id="path26035" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0309999;stroke-dasharray:none;stroke-opacity:1"
-       x="274.58163"
-       y="59.500145"
-       id="text26620"><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="59.500145"
-         id="tspan27870">ALT - Utilities Menu</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="64.791809"
-         id="tspan27874">CTRL - Pause Boot</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="70.083473"
-         id="tspan27876">NO SCROLL - Launch Core Selection</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="75.37513"
-         id="tspan27878">MEGA - Select C64 Mode</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="80.666794"
-         id="tspan27872">0 - 9 - Select MEGA650.ROM -- MEGA659.ROM</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="85.958458"
-         id="tspan27882">GO64 - Switch from MEGA65 to C64 Mode</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="91.250114"
-         id="tspan28706">SYS 58552 - Switch from C64 to MEGA65 Mode</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="96.541779"
-         id="tspan28712">SHIFT+RUN - Launch First Program on Disk</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="101.83344"
-         id="tspan28724" /><tspan
-         sodipodi:role="line"
-         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="274.58163"
-         y="107.12511"
-         id="tspan28720">LONG-PRESS POWER TO TURN OFF</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0309999;stroke-dasharray:none;stroke-opacity:1"
-       x="285.73172"
-       y="52.826958"
-       id="text28716"><tspan
-         sodipodi:role="line"
-         id="tspan28714"
-         style="font-size:6.35px;stroke-width:0.031;fill:#0000ff;-inkscape-font-specification:'Helvetica Neue Bold';font-family:'Helvetica Neue';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;stroke:none"
-         x="285.73172"
-         y="52.826958">AUTHORISATION CODES</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="scale(0.26458333)"
+       transform="matrix(0.26458333,0,0,0.26458333,0,15.875)"
        id="text28726"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';white-space:pre;shape-inside:url(#rect28728);display:inline;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.117165;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="#3b3b3bff"
        style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
-       transform="matrix(0.08178014,0,0,0.08178014,96.734378,12.445152)">
+       transform="matrix(0.08178014,0,0,0.08178014,96.734378,28.320153)">
       <path
          fill="#3b3b3b"
          opacity="1"
@@ -2477,93 +2464,208 @@
          style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1" />
     </g>
     <g
-       id="#3b3b3bff-5"
-       style="fill:#0000ff;fill-opacity:1"
-       transform="matrix(0.04346132,0,0,0.04346132,279.58313,28.46072)">
+       id="g3"
+       transform="translate(0,6.879167)">
       <path
-         fill="#3b3b3b"
-         opacity="1"
-         d="m 195.64,42.66 c 6.1,-0.74 12.23,-1.35 18.38,-1.16 527.66,0 1055.32,0 1582.99,0 42.07,-1.01 84.18,13.97 116.59,40.74 31.06,25.4 52.61,62.09 59.91,101.54 7.93,41.53 -0.79,85.82 -23.32,121.54 -20.5,33.12 -52.67,58.6 -89.23,71.81 -21.36,7.82 -44.24,11.37 -66.95,10.87 C 1270,388 745.99,388 221.98,388 178.87,389.08 135.49,374.23 102.39,346.5 62.73,313.84 38.88,262.48 40.49,211.02 40.98,168.52 58.75,126.71 88.13,96.12 116.31,66.53 155.11,47.47 195.64,42.66 m 564.67,86.49 c -8.19,1.51 -16.57,3.21 -23.92,7.29 -6.85,3.8 -10.13,11.44 -12.37,18.57 -4.34,14.58 -5.39,29.88 -6.04,45 -0.53,21.18 -0.56,42.52 2.74,63.5 1.67,9.52 3.76,19.36 9.25,27.49 5.11,7.56 14.54,9.91 22.88,11.95 22.37,4.71 45.34,5.27 68.11,5.78 28.06,0 56.18,0.36 84.14,-2.23 10.81,-0.94 22.11,-3.65 30.35,-11.15 7.25,-6.39 10.95,-15.87 12.09,-25.3 2.82,-22.02 2.54,-44.27 2.85,-66.42 -41.05,-0.01 -82.09,0 -123.14,-0.01 -0.01,13.42 0,26.84 0,40.25 22.68,0.02 45.36,0 68.05,0.01 -0.33,4.7 -0.48,9.9 -3.6,13.72 -2.6,3.19 -7.03,3.2 -10.75,3.64 -15.61,1.21 -31.29,1.14 -46.93,1.13 -12.74,0.06 -25.5,-0.16 -38.16,-1.58 -4.61,-0.62 -9.32,-1.21 -13.61,-3.1 -4.56,-2.05 -5.99,-7.35 -7.1,-11.78 -2.7,-12.77 -2.38,-25.93 -2.15,-38.9 0.54,-8.87 0.84,-18.13 4.58,-26.34 1.93,-4.77 7.36,-6.07 11.9,-6.96 11.38,-2.04 22.98,-2.31 34.52,-2.57 18.02,0.01 36.07,-0.27 54.06,1.03 3.59,0.41 7.39,0.43 10.73,1.99 4.5,2.58 5.56,8.13 6.27,12.83 18.41,0.01 36.82,0.02 55.23,0 -0.38,-12.61 -1.41,-25.49 -6.07,-37.34 -2.81,-7.13 -7.72,-13.99 -15.09,-16.86 -8.3,-3.23 -17.24,-4.27 -26.02,-5.35 -27.28,-2.84 -54.76,-2.78 -82.16,-2.67 -20.26,0.39 -40.61,1.09 -60.64,4.38 m 696.97,1.11 c -6.84,1.91 -14.46,4.29 -18.48,10.61 -4.56,7.2 -6.32,15.73 -7.83,24 -2.32,14.26 -2.99,28.73 -3.22,43.15 -0.08,22.34 -0.07,45 5.25,66.83 2.32,8.49 5.53,17.96 13.62,22.6 8.2,4.4 17.55,5.88 26.64,7.35 26.75,3.67 53.82,3.79 80.77,3.69 12.03,-0.25 24.08,-0.83 35.98,-2.73 6.79,-1.17 13.69,-2.61 19.82,-5.9 6.77,-3.68 10.81,-10.78 13.13,-17.89 4.04,-12.57 4.28,-25.96 3.97,-39.05 -0.44,-9.36 -1.58,-18.87 -5.16,-27.61 -2.44,-6.01 -6.46,-11.61 -12.2,-14.83 -6.76,-3.8 -14.45,-5.47 -22.01,-6.79 -14.38,-2.29 -28.98,-2.78 -43.52,-2.7 -12.43,-0.05 -24.89,0.34 -37.23,1.81 -9.68,1.21 -19.58,3.25 -27.84,8.72 0.25,-8.57 -0.35,-17.45 2.59,-25.65 0.97,-2.96 3.36,-5.35 6.46,-6.01 8.8,-2.29 17.99,-2.33 27.03,-2.49 15.02,0.01 30.08,-0.15 45.05,1.22 4.49,0.5 9.53,1.01 12.81,4.5 2.11,2.06 2.56,5.1 2.85,7.91 17.08,0 34.16,0 51.24,0 0.07,-10.07 -0.49,-20.25 -3.08,-30.02 -1.84,-6.74 -5.1,-14.01 -11.79,-17.12 -7.74,-3.61 -16.3,-4.86 -24.66,-6.08 -25.37,-3.15 -50.99,-3.15 -76.51,-2.99 -17.97,0.5 -36.15,1.13 -53.68,5.47 m -954.53,-3.13 c 0,59.62 0,119.24 0,178.87 64.21,0 128.42,0 192.63,0 -0.01,-14.42 0,-28.83 -0.01,-43.25 -45.87,-0.01 -91.74,0.01 -137.62,-0.01 0,-8.16 0,-16.32 0,-24.48 30.58,-0.02 61.16,0 91.75,-0.01 0,-14.38 0,-28.75 0,-43.12 -30.58,-0.02 -61.16,0 -91.75,-0.01 0,-8.21 0,-16.41 0,-24.61 45.88,-0.02 91.75,0 137.63,-0.01 0,-14.46 -0.01,-28.92 0,-43.37 -64.21,-0.01 -128.42,-0.01 -192.63,0 m 537.67,0.25 c -29.45,59.56 -59.01,119.07 -88.51,178.6 21.49,0.03 42.98,0.02 64.47,0.01 5.65,-9.92 11.31,-19.83 16.96,-29.74 36.29,0.02 72.57,-0.03 108.85,0.02 5.64,9.93 11.33,19.83 17.01,29.73 21.46,-0.01 42.92,0.02 64.38,-0.01 -29.48,-59.55 -59.06,-119.04 -88.49,-178.61 -31.56,-0.02 -63.12,-0.01 -94.67,0 m 139.41,0.13 c 5.14,10.32 10.17,20.7 15.38,31 63.43,-0.02 126.86,0.01 190.29,-0.02 0,-10.33 0,-20.65 -0.01,-30.98 -68.55,-0.02 -137.11,-0.01 -205.66,0 M 1650,127.12 c 0,35.88 0,71.75 0,107.63 16.57,0.02 33.14,-0.03 49.71,0.03 0.26,-3.12 0.74,-6.75 3.63,-8.6 3.17,-1.88 7.04,-1.64 10.6,-2 17.99,-0.83 36,-0.82 54,-0.45 8.2,0.36 16.53,0.22 24.58,2.07 4.83,1.45 6.24,7.05 6.8,11.47 0.51,7.1 0.97,14.93 -2.76,21.31 -2.51,4.17 -7.81,4.59 -12.14,5.2 -16.07,1.71 -32.26,1.32 -48.39,1.31 -9.78,-0.36 -19.7,-0.01 -29.33,-1.98 -4.61,-0.99 -6.13,-6.04 -6.72,-10.1 -16.66,-0.02 -33.32,-0.01 -49.98,-0.01 0.09,9.82 -0.58,19.94 2.49,29.42 2.27,7.21 7.4,13.54 14.23,16.88 8.11,3.94 17.17,5.21 26.01,6.43 22.98,2.72 46.16,2.89 69.28,2.74 19.58,-0.47 39.31,-1.09 58.55,-5.08 7.33,-1.72 15.15,-3.72 20.68,-9.17 6.15,-6.04 9.17,-14.46 11.01,-22.69 2.75,-12.77 2.79,-25.93 2.28,-38.93 -0.76,-11.11 -2.02,-22.67 -7.5,-32.58 -2.92,-5.4 -8.01,-9.51 -13.97,-11.03 -14.31,-4.05 -29.31,-4.52 -44.07,-5.2 -18.91,-0.46 -37.91,-0.8 -56.73,1.36 -11.59,1.44 -23.38,3.57 -33.77,9.16 0.02,-9.02 -0.01,-18.04 0.01,-27.06 48.75,0 97.5,0 146.25,0 0,-13.38 -0.01,-26.75 0,-40.12 -64.92,-0.01 -129.83,0 -194.75,-0.01 m -1469,0.63 c 0,59.5 0,119 0,178.5 18.38,0 36.75,0 55.12,0 0.04,-46.83 -0.05,-93.65 0.04,-140.47 5.53,11.38 11.44,22.56 17.22,33.81 18.34,35.55 36.66,71.12 55.02,106.66 15.07,0 30.14,0 45.21,0 20.73,-43.16 41.43,-86.34 62.15,-129.51 1.68,-3.51 3.04,-7.17 5.15,-10.46 0.21,46.66 0.03,93.31 0.09,139.97 18.33,0 36.66,0 55,0 0,-59.5 0,-119 0,-178.5 -31.28,0 -62.55,0 -93.83,0 -17.05,36.36 -34.03,72.75 -51.21,109.04 -17.09,-36.32 -34.07,-72.7 -51.13,-109.04 -32.95,0 -65.89,0 -98.83,0 m 1023.09,48.75 c 5.04,10.36 10.21,20.66 15.29,31 55.37,0 110.74,0.01 166.11,-0.01 0.01,-10.33 0.01,-20.65 0,-30.98 -60.47,-0.02 -120.93,-0.01 -181.4,-0.01 m 24.18,49.01 c 5.16,10.31 10.19,20.68 15.36,30.99 47.29,0 94.58,0 141.87,0 0,-10.34 0,-20.67 0,-31 -52.41,0 -104.82,-0.01 -157.23,0.01 m 24.5,49.5 c 5.09,10.34 10.21,20.65 15.31,30.99 39.14,0 78.28,0.01 117.42,-0.01 0,-10.33 0,-20.65 0,-30.98 -44.24,-0.02 -88.49,-0.02 -132.73,0 z"
-         id="path30358-9"
-         style="fill:#0000ff;fill-opacity:1" />
-      <path
-         fill="#3b3b3b"
-         opacity="1"
-         d="m 1083.56,167.89 c 2.8,-0.02 5.61,-0.02 8.43,-0.01 9.87,20.67 19.72,41.34 29.62,62 -22.57,-0.01 -45.14,-0.02 -67.71,0 9.88,-20.66 19.79,-41.31 29.66,-61.99 z"
-         id="path30360-7"
-         style="fill:#0000ff;fill-opacity:1" />
-      <path
-         fill="#3b3b3b"
-         opacity="1"
-         d="m 1493.52,234.84 c 15.1,-1.59 30.31,-1.18 45.48,-1.18 9.15,0.31 18.42,0.24 27.42,2.13 4.47,0.8 7.67,4.81 8.33,9.17 0.74,4.88 0.77,10.41 -2.22,14.59 -2.67,3.6 -7.41,4.36 -11.54,4.95 -15.28,1.8 -30.69,1.32 -46.03,1.34 -9.16,-0.33 -18.44,-0.22 -27.43,-2.19 -4.29,-0.8 -7.31,-4.64 -7.99,-8.81 -0.86,-5.23 -0.88,-11.3 2.68,-15.6 2.75,-3.32 7.29,-3.9 11.3,-4.4 z"
-         id="path30362-7"
-         style="fill:#0000ff;fill-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+         d="m 409.26932,107.14264 0.5192,-81.878243 -125.49083,0.338936 -0.004,81.532537 z"
+         id="path26035" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0309999;stroke-dasharray:none;stroke-opacity:1"
+         x="299.56036"
+         y="56.628998"
+         id="text26620"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="56.628998"
+           id="tspan27870">ALT - Utilities Menu</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="61.920662"
+           id="tspan27874">CTRL - Pause Boot</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="67.212326"
+           id="tspan27876">NO SCROLL - Launch Core Selection</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="72.503983"
+           id="tspan27878">MEGA - Select C64 Mode</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="77.795647"
+           id="tspan27872">0 - 9 - Select MEGA650.ROM -- MEGA659.ROM</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="83.087311"
+           id="tspan27882">GO64 - Switch from MEGA65 to C64 Mode</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="88.378975"
+           id="tspan28706">SYS 58552 - Switch from C64 to MEGA65 Mode</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="93.670631"
+           id="tspan28712">SHIFT+RUN - Launch First Program on Disk</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="98.962296"
+           id="tspan28724" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031;stroke-opacity:1"
+           x="299.56036"
+           y="104.25396"
+           id="tspan28720">LONG-PRESS POWER TO TURN OFF</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0309999;stroke-dasharray:none;stroke-opacity:1"
+         x="308.79828"
+         y="49.955811"
+         id="text28716"><tspan
+           sodipodi:role="line"
+           id="tspan28714"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.031"
+           x="308.79828"
+           y="49.955811">AUTHORISATION CODES</tspan></text>
+      <g
+         id="#3b3b3bff-5"
+         style="fill:#0000ff;fill-opacity:1"
+         transform="matrix(0.04346132,0,0,0.04346132,303.21486,25.589569)">
+        <path
+           fill="#3b3b3b"
+           opacity="1"
+           d="m 195.64,42.66 c 6.1,-0.74 12.23,-1.35 18.38,-1.16 527.66,0 1055.32,0 1582.99,0 42.07,-1.01 84.18,13.97 116.59,40.74 31.06,25.4 52.61,62.09 59.91,101.54 7.93,41.53 -0.79,85.82 -23.32,121.54 -20.5,33.12 -52.67,58.6 -89.23,71.81 -21.36,7.82 -44.24,11.37 -66.95,10.87 C 1270,388 745.99,388 221.98,388 178.87,389.08 135.49,374.23 102.39,346.5 62.73,313.84 38.88,262.48 40.49,211.02 40.98,168.52 58.75,126.71 88.13,96.12 116.31,66.53 155.11,47.47 195.64,42.66 m 564.67,86.49 c -8.19,1.51 -16.57,3.21 -23.92,7.29 -6.85,3.8 -10.13,11.44 -12.37,18.57 -4.34,14.58 -5.39,29.88 -6.04,45 -0.53,21.18 -0.56,42.52 2.74,63.5 1.67,9.52 3.76,19.36 9.25,27.49 5.11,7.56 14.54,9.91 22.88,11.95 22.37,4.71 45.34,5.27 68.11,5.78 28.06,0 56.18,0.36 84.14,-2.23 10.81,-0.94 22.11,-3.65 30.35,-11.15 7.25,-6.39 10.95,-15.87 12.09,-25.3 2.82,-22.02 2.54,-44.27 2.85,-66.42 -41.05,-0.01 -82.09,0 -123.14,-0.01 -0.01,13.42 0,26.84 0,40.25 22.68,0.02 45.36,0 68.05,0.01 -0.33,4.7 -0.48,9.9 -3.6,13.72 -2.6,3.19 -7.03,3.2 -10.75,3.64 -15.61,1.21 -31.29,1.14 -46.93,1.13 -12.74,0.06 -25.5,-0.16 -38.16,-1.58 -4.61,-0.62 -9.32,-1.21 -13.61,-3.1 -4.56,-2.05 -5.99,-7.35 -7.1,-11.78 -2.7,-12.77 -2.38,-25.93 -2.15,-38.9 0.54,-8.87 0.84,-18.13 4.58,-26.34 1.93,-4.77 7.36,-6.07 11.9,-6.96 11.38,-2.04 22.98,-2.31 34.52,-2.57 18.02,0.01 36.07,-0.27 54.06,1.03 3.59,0.41 7.39,0.43 10.73,1.99 4.5,2.58 5.56,8.13 6.27,12.83 18.41,0.01 36.82,0.02 55.23,0 -0.38,-12.61 -1.41,-25.49 -6.07,-37.34 -2.81,-7.13 -7.72,-13.99 -15.09,-16.86 -8.3,-3.23 -17.24,-4.27 -26.02,-5.35 -27.28,-2.84 -54.76,-2.78 -82.16,-2.67 -20.26,0.39 -40.61,1.09 -60.64,4.38 m 696.97,1.11 c -6.84,1.91 -14.46,4.29 -18.48,10.61 -4.56,7.2 -6.32,15.73 -7.83,24 -2.32,14.26 -2.99,28.73 -3.22,43.15 -0.08,22.34 -0.07,45 5.25,66.83 2.32,8.49 5.53,17.96 13.62,22.6 8.2,4.4 17.55,5.88 26.64,7.35 26.75,3.67 53.82,3.79 80.77,3.69 12.03,-0.25 24.08,-0.83 35.98,-2.73 6.79,-1.17 13.69,-2.61 19.82,-5.9 6.77,-3.68 10.81,-10.78 13.13,-17.89 4.04,-12.57 4.28,-25.96 3.97,-39.05 -0.44,-9.36 -1.58,-18.87 -5.16,-27.61 -2.44,-6.01 -6.46,-11.61 -12.2,-14.83 -6.76,-3.8 -14.45,-5.47 -22.01,-6.79 -14.38,-2.29 -28.98,-2.78 -43.52,-2.7 -12.43,-0.05 -24.89,0.34 -37.23,1.81 -9.68,1.21 -19.58,3.25 -27.84,8.72 0.25,-8.57 -0.35,-17.45 2.59,-25.65 0.97,-2.96 3.36,-5.35 6.46,-6.01 8.8,-2.29 17.99,-2.33 27.03,-2.49 15.02,0.01 30.08,-0.15 45.05,1.22 4.49,0.5 9.53,1.01 12.81,4.5 2.11,2.06 2.56,5.1 2.85,7.91 17.08,0 34.16,0 51.24,0 0.07,-10.07 -0.49,-20.25 -3.08,-30.02 -1.84,-6.74 -5.1,-14.01 -11.79,-17.12 -7.74,-3.61 -16.3,-4.86 -24.66,-6.08 -25.37,-3.15 -50.99,-3.15 -76.51,-2.99 -17.97,0.5 -36.15,1.13 -53.68,5.47 m -954.53,-3.13 c 0,59.62 0,119.24 0,178.87 64.21,0 128.42,0 192.63,0 -0.01,-14.42 0,-28.83 -0.01,-43.25 -45.87,-0.01 -91.74,0.01 -137.62,-0.01 0,-8.16 0,-16.32 0,-24.48 30.58,-0.02 61.16,0 91.75,-0.01 0,-14.38 0,-28.75 0,-43.12 -30.58,-0.02 -61.16,0 -91.75,-0.01 0,-8.21 0,-16.41 0,-24.61 45.88,-0.02 91.75,0 137.63,-0.01 0,-14.46 -0.01,-28.92 0,-43.37 -64.21,-0.01 -128.42,-0.01 -192.63,0 m 537.67,0.25 c -29.45,59.56 -59.01,119.07 -88.51,178.6 21.49,0.03 42.98,0.02 64.47,0.01 5.65,-9.92 11.31,-19.83 16.96,-29.74 36.29,0.02 72.57,-0.03 108.85,0.02 5.64,9.93 11.33,19.83 17.01,29.73 21.46,-0.01 42.92,0.02 64.38,-0.01 -29.48,-59.55 -59.06,-119.04 -88.49,-178.61 -31.56,-0.02 -63.12,-0.01 -94.67,0 m 139.41,0.13 c 5.14,10.32 10.17,20.7 15.38,31 63.43,-0.02 126.86,0.01 190.29,-0.02 0,-10.33 0,-20.65 -0.01,-30.98 -68.55,-0.02 -137.11,-0.01 -205.66,0 M 1650,127.12 c 0,35.88 0,71.75 0,107.63 16.57,0.02 33.14,-0.03 49.71,0.03 0.26,-3.12 0.74,-6.75 3.63,-8.6 3.17,-1.88 7.04,-1.64 10.6,-2 17.99,-0.83 36,-0.82 54,-0.45 8.2,0.36 16.53,0.22 24.58,2.07 4.83,1.45 6.24,7.05 6.8,11.47 0.51,7.1 0.97,14.93 -2.76,21.31 -2.51,4.17 -7.81,4.59 -12.14,5.2 -16.07,1.71 -32.26,1.32 -48.39,1.31 -9.78,-0.36 -19.7,-0.01 -29.33,-1.98 -4.61,-0.99 -6.13,-6.04 -6.72,-10.1 -16.66,-0.02 -33.32,-0.01 -49.98,-0.01 0.09,9.82 -0.58,19.94 2.49,29.42 2.27,7.21 7.4,13.54 14.23,16.88 8.11,3.94 17.17,5.21 26.01,6.43 22.98,2.72 46.16,2.89 69.28,2.74 19.58,-0.47 39.31,-1.09 58.55,-5.08 7.33,-1.72 15.15,-3.72 20.68,-9.17 6.15,-6.04 9.17,-14.46 11.01,-22.69 2.75,-12.77 2.79,-25.93 2.28,-38.93 -0.76,-11.11 -2.02,-22.67 -7.5,-32.58 -2.92,-5.4 -8.01,-9.51 -13.97,-11.03 -14.31,-4.05 -29.31,-4.52 -44.07,-5.2 -18.91,-0.46 -37.91,-0.8 -56.73,1.36 -11.59,1.44 -23.38,3.57 -33.77,9.16 0.02,-9.02 -0.01,-18.04 0.01,-27.06 48.75,0 97.5,0 146.25,0 0,-13.38 -0.01,-26.75 0,-40.12 -64.92,-0.01 -129.83,0 -194.75,-0.01 m -1469,0.63 c 0,59.5 0,119 0,178.5 18.38,0 36.75,0 55.12,0 0.04,-46.83 -0.05,-93.65 0.04,-140.47 5.53,11.38 11.44,22.56 17.22,33.81 18.34,35.55 36.66,71.12 55.02,106.66 15.07,0 30.14,0 45.21,0 20.73,-43.16 41.43,-86.34 62.15,-129.51 1.68,-3.51 3.04,-7.17 5.15,-10.46 0.21,46.66 0.03,93.31 0.09,139.97 18.33,0 36.66,0 55,0 0,-59.5 0,-119 0,-178.5 -31.28,0 -62.55,0 -93.83,0 -17.05,36.36 -34.03,72.75 -51.21,109.04 -17.09,-36.32 -34.07,-72.7 -51.13,-109.04 -32.95,0 -65.89,0 -98.83,0 m 1023.09,48.75 c 5.04,10.36 10.21,20.66 15.29,31 55.37,0 110.74,0.01 166.11,-0.01 0.01,-10.33 0.01,-20.65 0,-30.98 -60.47,-0.02 -120.93,-0.01 -181.4,-0.01 m 24.18,49.01 c 5.16,10.31 10.19,20.68 15.36,30.99 47.29,0 94.58,0 141.87,0 0,-10.34 0,-20.67 0,-31 -52.41,0 -104.82,-0.01 -157.23,0.01 m 24.5,49.5 c 5.09,10.34 10.21,20.65 15.31,30.99 39.14,0 78.28,0.01 117.42,-0.01 0,-10.33 0,-20.65 0,-30.98 -44.24,-0.02 -88.49,-0.02 -132.73,0 z"
+           id="path30358-9"
+           style="fill:#0000ff;fill-opacity:1" />
+        <path
+           fill="#3b3b3b"
+           opacity="1"
+           d="m 1083.56,167.89 c 2.8,-0.02 5.61,-0.02 8.43,-0.01 9.87,20.67 19.72,41.34 29.62,62 -22.57,-0.01 -45.14,-0.02 -67.71,0 9.88,-20.66 19.79,-41.31 29.66,-61.99 z"
+           id="path30360-7"
+           style="fill:#0000ff;fill-opacity:1" />
+        <path
+           fill="#3b3b3b"
+           opacity="1"
+           d="m 1493.52,234.84 c 15.1,-1.59 30.31,-1.18 45.48,-1.18 9.15,0.31 18.42,0.24 27.42,2.13 4.47,0.8 7.67,4.81 8.33,9.17 0.74,4.88 0.77,10.41 -2.22,14.59 -2.67,3.6 -7.41,4.36 -11.54,4.95 -15.28,1.8 -30.69,1.32 -46.03,1.34 -9.16,-0.33 -18.44,-0.22 -27.43,-2.19 -4.29,-0.8 -7.31,-4.64 -7.99,-8.81 -0.86,-5.23 -0.88,-11.3 2.68,-15.6 2.75,-3.32 7.29,-3.9 11.3,-4.4 z"
+           id="path30362-7"
+           style="fill:#0000ff;fill-opacity:1" />
+      </g>
     </g>
     <path
        id="path111-6"
-       style="fill:none;stroke:#ff0000;stroke-width:0.0127019"
-       d="m 32.475105,127.45168 h 4e-6 m -2.974155,0.28635 -1.368149,-6.64465 c -0.0055,-0.0483 -0.0077,-0.0947 -0.0077,-0.14171 0,-0.82843 0.671573,-1.49984 1.499417,-1.49884 l 15.500299,-8.4e-4 c 1.001843,-5.3e-4 1.652711,0.91149 1.484746,1.71717 l -1.396659,6.70677 c -0.180452,0.62088 -0.756002,1.07575 -1.43694,1.07581 l -12.804456,-5.1e-4 c -0.729609,4.5e-4 -1.339948,-0.52561 -1.470558,-1.2132 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25"
+       d="m 32.475105,143.32669 h 4e-6 m -2.974155,0.28635 -1.368149,-6.64465 c -0.0055,-0.0483 -0.0077,-0.0947 -0.0077,-0.14171 0,-0.82843 0.671573,-1.49984 1.499417,-1.49884 l 15.500299,-8.4e-4 c 1.001843,-5.3e-4 1.652711,0.91149 1.484746,1.71717 l -1.396659,6.70677 c -0.180452,0.62088 -0.756002,1.07575 -1.43694,1.07581 l -12.804456,-5.1e-4 c -0.729609,4.5e-4 -1.339948,-0.52561 -1.470558,-1.2132 z"
        sodipodi:nodetypes="ccccsccscccc" />
     <path
        id="path111-6-3"
-       style="fill:none;stroke:#ff0000;stroke-width:0.0127019"
-       d="m 32.504101,167.4947 h 4e-6 m -2.974155,0.28635 -1.368149,-6.64465 c -0.0055,-0.0483 -0.0077,-0.0947 -0.0077,-0.14171 0,-0.82843 0.671573,-1.49984 1.499417,-1.49884 l 15.500299,-8.4e-4 c 1.001843,-5.3e-4 1.652711,0.91149 1.484746,1.71717 l -1.396659,6.70677 c -0.180452,0.62088 -0.756002,1.07575 -1.43694,1.07581 l -12.804456,-5.1e-4 c -0.729609,4.5e-4 -1.339948,-0.52561 -1.470558,-1.2132 z"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25"
+       d="m 32.504101,183.36971 h 4e-6 m -2.974155,0.28635 -1.368149,-6.64465 c -0.0055,-0.0483 -0.0077,-0.0947 -0.0077,-0.14171 0,-0.82843 0.671573,-1.49984 1.499417,-1.49884 l 15.500299,-8.4e-4 c 1.001843,-5.3e-4 1.652711,0.91149 1.484746,1.71717 l -1.396659,6.70677 c -0.180452,0.62088 -0.756002,1.07575 -1.43694,1.07581 l -12.804456,-5.1e-4 c -0.729609,4.5e-4 -1.339948,-0.52561 -1.470558,-1.2132 z"
        sodipodi:nodetypes="ccccsccscccc" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0127019"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25"
        id="path111-6-5"
        cx="24.65411"
-       cy="124.28068"
+       cy="140.15569"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0127019"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25"
        id="path111-6-5-2"
        cx="49.654167"
-       cy="124.28068"
+       cy="140.15569"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0127019"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25"
        id="path111-6-5-9"
        cx="24.654108"
-       cy="164.28069"
+       cy="180.1557"
        r="1.5" />
     <circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.0127019"
+       style="fill:none;stroke:#ff0000;stroke-width:0.25"
        id="path111-6-5-2-2"
        cx="49.654163"
-       cy="164.28069"
+       cy="180.1557"
        r="1.5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="37.755783"
-       y="111.21241"
+       y="127.08739"
        id="text13508-8-8"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="37.755783"
-         y="111.21241"
+         y="127.08739"
          id="tspan13510-2-73">INTERFACE</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="37.755783"
-         y="117.38602"
+         y="133.26102"
          id="tspan13446">PORT 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
        x="37.360432"
-       y="151.93571"
+       y="167.81073"
        id="text13508-8-8-6"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="37.360432"
-         y="151.93571"
+         y="167.81073"
          id="tspan13510-2-73-1">INTERFACE</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.025;stroke-dasharray:none;stroke-opacity:1"
          x="37.360432"
-         y="158.10933"
+         y="173.98434"
          id="tspan13446-2">PORT 2</tspan></text>
+    <g
+       id="g3-4"
+       transform="translate(-0.51777834,14.813334)"
+       style="stroke:#ff0000">
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-08"
+         cx="273.55814"
+         cy="11.496346"
+         r="1.5" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:square"
+         d="m 263.54068,11.076525 -0.003,-3.5806335 166.97258,0.01423 0.0314,103.4858185 -41.8809,0.0692"
+         id="path2"
+         sodipodi:nodetypes="ccccc" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-8"
+         cx="325.56317"
+         cy="10.456938"
+         r="1.5" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-6-6"
+         cx="325.56317"
+         cy="104.45693"
+         r="1.5" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-1-1"
+         cx="395.56317"
+         cy="10.456938"
+         r="1.5" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path6146-3-3-6-0-5"
+         cx="395.56317"
+         cy="104.45693"
+         r="1.5" />
+    </g>
   </g>
 </svg>
