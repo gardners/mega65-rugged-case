@@ -7,8 +7,8 @@
    viewBox="0 0 420 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
-   sodipodi:docname="lower-deck4-laser-cut4.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="lower-deck4-laser-cut.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.538123"
-     inkscape:cx="678.28358"
-     inkscape:cy="734.03292"
-     inkscape:window-width="1512"
-     inkscape:window-height="813"
+     inkscape:zoom="1.6192131"
+     inkscape:cx="985.97278"
+     inkscape:cy="537.29804"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
@@ -49,7 +49,126 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g3">
+       style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       transform="translate(-374.68162,93.123575)"
+       id="g13368" />
+    <g
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g15804"
+       transform="translate(-374.68162,93.123575)">
+      <text
+         x="300.98901"
+         y="267.7522"
+         textLength="0.89999998"
+         font-size="2px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         stroke-opacity="0"
+         id="text15798"
+         style="stroke:#ff0000;stroke-width:0.25" />
+      <g
+         class="stroked-text"
+         id="g15802"
+         style="stroke:#ff0000;stroke-width:0.25">
+        <desc
+           id="desc15800" />
+      </g>
+    </g>
+    <g
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g15812"
+       transform="translate(-374.68162,93.123575)">
+      <text
+         x="300.98901"
+         y="264.7522"
+         textLength="0.44999999"
+         font-size="2px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         stroke-opacity="0"
+         id="text15806"
+         style="stroke:#ff0000;stroke-width:0.25" />
+      <g
+         class="stroked-text"
+         id="g15810"
+         style="stroke:#ff0000;stroke-width:0.25">
+        <desc
+           id="desc15808" />
+      </g>
+    </g>
+    <g
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g15820"
+       transform="translate(-374.68162,93.123575)">
+      <text
+         x="300.98901"
+         y="261.7522"
+         textLength="0.44999999"
+         font-size="2px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         stroke-opacity="0"
+         id="text15814"
+         style="stroke:#ff0000;stroke-width:0.25" />
+      <g
+         class="stroked-text"
+         id="g15818"
+         style="stroke:#ff0000;stroke-width:0.25">
+        <desc
+           id="desc15816" />
+      </g>
+    </g>
+    <g
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g15828"
+       transform="translate(-374.68162,93.123575)">
+      <text
+         x="300.98901"
+         y="258.7522"
+         textLength="0.44999999"
+         font-size="2px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         stroke-opacity="0"
+         id="text15822"
+         style="stroke:#ff0000;stroke-width:0.25" />
+      <g
+         class="stroked-text"
+         id="g15826"
+         style="stroke:#ff0000;stroke-width:0.25">
+        <desc
+           id="desc15824" />
+      </g>
+    </g>
+    <g
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g15836"
+       transform="translate(-374.68162,93.123575)">
+      <text
+         x="300.98901"
+         y="255.7522"
+         textLength="0.44999999"
+         font-size="2px"
+         lengthAdjust="spacingAndGlyphs"
+         text-anchor="start"
+         opacity="0"
+         stroke-opacity="0"
+         id="text15830"
+         style="stroke:#ff0000;stroke-width:0.25" />
+      <g
+         class="stroked-text"
+         id="g15834"
+         style="stroke:#ff0000;stroke-width:0.25">
+        <desc
+           id="desc15832" />
+      </g>
+    </g>
+    <g
+       id="g110008">
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          id="path6146"
@@ -92,125 +211,6 @@
          cx="26.012699"
          cy="145.0127"
          r="1.5" />
-      <g
-         style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-width:0.25"
-         transform="translate(-374.68162,93.123575)"
-         id="g13368" />
-      <g
-         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="g15804"
-         transform="translate(-374.68162,93.123575)">
-        <text
-           x="300.98901"
-           y="267.7522"
-           textLength="0.89999998"
-           font-size="2px"
-           lengthAdjust="spacingAndGlyphs"
-           text-anchor="start"
-           opacity="0"
-           stroke-opacity="0"
-           id="text15798"
-           style="stroke:#ff0000;stroke-width:0.25" />
-        <g
-           class="stroked-text"
-           id="g15802"
-           style="stroke:#ff0000;stroke-width:0.25">
-          <desc
-             id="desc15800" />
-        </g>
-      </g>
-      <g
-         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="g15812"
-         transform="translate(-374.68162,93.123575)">
-        <text
-           x="300.98901"
-           y="264.7522"
-           textLength="0.44999999"
-           font-size="2px"
-           lengthAdjust="spacingAndGlyphs"
-           text-anchor="start"
-           opacity="0"
-           stroke-opacity="0"
-           id="text15806"
-           style="stroke:#ff0000;stroke-width:0.25" />
-        <g
-           class="stroked-text"
-           id="g15810"
-           style="stroke:#ff0000;stroke-width:0.25">
-          <desc
-             id="desc15808" />
-        </g>
-      </g>
-      <g
-         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="g15820"
-         transform="translate(-374.68162,93.123575)">
-        <text
-           x="300.98901"
-           y="261.7522"
-           textLength="0.44999999"
-           font-size="2px"
-           lengthAdjust="spacingAndGlyphs"
-           text-anchor="start"
-           opacity="0"
-           stroke-opacity="0"
-           id="text15814"
-           style="stroke:#ff0000;stroke-width:0.25" />
-        <g
-           class="stroked-text"
-           id="g15818"
-           style="stroke:#ff0000;stroke-width:0.25">
-          <desc
-             id="desc15816" />
-        </g>
-      </g>
-      <g
-         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="g15828"
-         transform="translate(-374.68162,93.123575)">
-        <text
-           x="300.98901"
-           y="258.7522"
-           textLength="0.44999999"
-           font-size="2px"
-           lengthAdjust="spacingAndGlyphs"
-           text-anchor="start"
-           opacity="0"
-           stroke-opacity="0"
-           id="text15822"
-           style="stroke:#ff0000;stroke-width:0.25" />
-        <g
-           class="stroked-text"
-           id="g15826"
-           style="stroke:#ff0000;stroke-width:0.25">
-          <desc
-             id="desc15824" />
-        </g>
-      </g>
-      <g
-         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="g15836"
-         transform="translate(-374.68162,93.123575)">
-        <text
-           x="300.98901"
-           y="255.7522"
-           textLength="0.44999999"
-           font-size="2px"
-           lengthAdjust="spacingAndGlyphs"
-           text-anchor="start"
-           opacity="0"
-           stroke-opacity="0"
-           id="text15830"
-           style="stroke:#ff0000;stroke-width:0.25" />
-        <g
-           class="stroked-text"
-           id="g15834"
-           style="stroke:#ff0000;stroke-width:0.25">
-          <desc
-             id="desc15832" />
-        </g>
-      </g>
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
          id="rect5113-3"
@@ -418,8 +418,7 @@
       <path
          id="rect5113-3-7"
          style="fill:none;stroke:#ff0000;stroke-width:0.25"
-         transform="scale(-1)"
-         d="m -286.98403,-273.98431 v 0.84079 c 0,2.0779 -2.23042,3.75067 -5.00073,3.75067 h -42.9426 c -2.77031,0 -5.00073,-1.67276 -5.00073,-3.75067 v -0.84079 h -15.79077 c -16.76702,0 -30.26263,13.78394 -30.26585,31.10327 l -0.0116,163.340479 126.92774,0.06518 c 2.77031,0.0023 5.00056,1.672834 5.00056,3.75075 v 42.86 c 0,2.077915 -2.23025,3.75075 -5.00056,3.75075 l -124.07511,-0.02371 c 4.77615,10.594613 15.27764,18.12173 27.42482,18.12173 h 260.704505 v -11.24802 c 0,-2.07791 2.23042,-3.75068 5.000728,-3.75068 h 20.00188 c 2.770308,0 5.000728,1.67277 5.000728,3.75068 v 11.24802 h 24.729757 c 16.767019,0 28.266497,-13.94285 28.266491,-31.26218 l -5.16e-4,-200.444089 c -6e-6,-17.31934 -13.498835,-31.26218 -30.265853,-31.26218 l -147.72385,-0.0158 -0.006,0.23836 c 0,2.07792 -2.23025,3.75075 -5.00057,3.75075 h -40.00186 c -2.77032,0 -5.00057,-1.67283 -5.00057,-3.75075 l 0.0134,-0.22323 z"
+         d="m 286.98403,273.98431 v -0.84079 c 0,-2.0779 2.23042,-3.75067 5.00073,-3.75067 h 42.9426 c 2.77031,0 5.00073,1.67276 5.00073,3.75067 v 0.84079 h 15.79077 c 16.76702,0 30.26263,-13.78394 30.26585,-31.10327 l 0.0116,-163.340479 -126.92774,-0.06518 c -2.77031,-0.0023 -5.00056,-1.672834 -5.00056,-3.75075 v -42.86 c 0,-2.077915 2.23025,-3.75075 5.00056,-3.75075 l 124.07511,0.02371 C 378.36753,18.542978 367.86604,11.015861 355.71886,11.015861 H 95.014355 v 11.24802 c 0,2.07791 -2.23042,3.75068 -5.000728,3.75068 h -20.00188 c -2.770308,0 -5.000728,-1.67277 -5.000728,-3.75068 V 11.015861 H 40.281262 c -16.767019,0 -28.266497,13.94285 -28.266491,31.26218 l 5.16e-4,200.444089 c 6e-6,17.31934 13.498835,31.26218 30.265853,31.26218 l 147.72385,0.0158 0.006,-0.23836 c 0,-2.07792 2.23025,-3.75075 5.00057,-3.75075 h 40.00186 c 2.77032,0 5.00057,1.67283 5.00057,3.75075 l -0.0134,0.22323 z"
          sodipodi:nodetypes="csssscsscsssscscsssscsccscsssscc" />
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
@@ -432,5 +431,29 @@
          ry="3.7507498"
          transform="scale(-1)" />
     </g>
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-3-5-6-6-7-0-3-3"
+       cx="326.97601"
+       cy="95.543999"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-3-5-6-6-7-0-3-3-8"
+       cx="276.97601"
+       cy="106.544"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-3-5-6-6-7-0-3-3-6"
+       cx="296.97601"
+       cy="136.54401"
+       r="1.5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path6146-3-5-6-6-7-0-3-3-0"
+       cx="362.97601"
+       cy="134.54401"
+       r="1.5" />
   </g>
 </svg>
